@@ -1,6 +1,6 @@
 {
  "data": {
-  "method": "Stat-only Performance Score (0-100). Hitters: OPS 50%, OBP 20%, SLG 15%, playing time 15%, percentiles vs MLB\nhitters with 200+ PA. Starters (10+ GS, 60+ IP): ERA 35%, WHIP 30%, K/9 20%, BB/9 15% vs qualified starters.\nRelievers (30+ IP, <5 GS): ERA 35%, WHIP 25%, K/9 25%, BB/9 15%. Rank is within position group. No scouting input.",
+  "method": "Stat-only Performance Score (0-100). Hitters: OPS 50%, OBP 20%, SLG 15%, playing time 15%, percentiles vs MLB hitters with 200+ PA. Starters (10+ GS, 60+ IP): ERA 35%, WHIP 30%, K/9 20%, BB/9 15% vs qualified starters. Relievers (30+ IP, <5 GS): ERA 35%, WHIP 25%, K/9 25%, BB/9 15%. Rank is within position group. No scouting input.",
   "players": [
    {
     "age": 29,
@@ -10064,5 +10064,5 @@
   },
   "season": 2026
  },
- "updated": "2026-10-11T19:43:50-04:00"
+ "updated": "2026-10-11T19:52:50-04:00"
 }
