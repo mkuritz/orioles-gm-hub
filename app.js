@@ -104,7 +104,7 @@ const Fz = {
   contractOf(name) { return L.contracts.find((c) => norm(c.name) === norm(name)) || null; },
   controlThru(p) { const c = p.contract || Fz.contractOf(p.name); if (c && c.ends) return c.ends; const a = p.arb || L.arbByName[norm(p.name)]; if (a) { const sv = parseFloat(a.service); return 2026 + Math.max(1, 6 - Math.floor(sv)); } if (p.signed) return 2027; return p.debut ? Math.max(2027, +String(p.debut).slice(0, 4) + 6) : 2031; },
   depthChart(s) {
-    const rs = Fz.roster(s).filter((p) => p.status !== '60-Day IL');
+    const rs = Fz.roster(s).filter((p) => !/60/.test(p.status || ''));
     const prospects = L.t30.filter((x) => x.pos);
     return GROUPS.map((g) => {
       const players = rs.filter((p) => p.grp === g.id).sort((a, b) => ((b.perf || {}).score || 0) - ((a.perf || {}).score || 0));
@@ -223,7 +223,7 @@ const Fz = {
   summary(s) {
     const me = L.me; const pay = Fz.payroll(s); const needs = Fz.needs(s);
     const rs = Fz.roster(s);
-    return { me, pay, needs, rosterCount: rs.length, status: L.status(me), record: `${me.w}-${me.l}`, top100: L.t100.filter((x) => x.team === T.name).length };
+    return { me, pay, needs, rosterCount: rs.filter((p) => !/60/.test(p.status || '')).length, il60: rs.filter((p) => /60/.test(p.status || '')).length, status: L.status(me), record: `${me.w}-${me.l}`, top100: L.t100.filter((x) => x.team === T.name).length };
   },
 };
 function taxOf(total, th, cbt, y) { if (y === 2026 && L.payroll.est_tax != null) return L.payroll.est_tax; if (!th || !th.length || total <= th[0]) return 0; const r = /repeat/i.test(cbt.payor_status || '') ? (cbt.rates_second || [30, 42, 75, 90]) : (cbt.rates_first || [20, 32, 62.5, 80]); let tax = 0; for (let i = 0; i < th.length; i++) { const lo = th[i], hi = th[i + 1] || Infinity; if (total > lo) tax += (Math.min(total, hi) - lo) * r[i] / 100; } return tax; }
@@ -325,7 +325,7 @@ Views.hub = () => {
       <div class="hstat"><span>vs 1st threshold</span><b class="num ${y[2026].th[0] - y[2026].total < 0 ? 'neg' : 'pos'}">${fm(M(y[2026].th[0] - y[2026].total), { plus: true, digits: 1 })}</b></div>
       <div class="hstat"><span>2027 projected</span><b class="num">${fm(M(y[2027].total), { digits: 1 })}</b></div>
       <div class="hstat"><span>2027 room</span><b class="num ${y[2027].room < 0 ? 'neg' : y[2027].room < 15e6 ? 'warn' : 'pos'}">${fm(M(y[2027].room), { plus: true, digits: 1 })}</b></div>
-      <div class="hstat"><span>40-man</span><b class="num">${sum.rosterCount}<small>/40</small></b></div>
+      <div class="hstat"><span>40-man (+60-day IL)</span><b class="num">${sum.rosterCount}<small>/40 +${sum.il60}</small></b></div>
       <div class="hstat"><span>Top-100 prospects</span><b class="num">${sum.top100}</b></div>
       <div class="hstat"><span>Intl pool</span><b class="num">${pool ? fm(M(pool), { digits: 2 }) : '—'}</b></div>
     </div>
@@ -364,7 +364,7 @@ Views.puzzle = () => {
 Views.depth = () => {
   const s = S(); const side = s.ui.depthSide; const dc = Fz.depthChart(s).filter((d) => d.group.side === side); const ns = Fz.needs(s);
   return `<div class="row between" style="margin-bottom:14px;flex-wrap:wrap;gap:10px"><div class="seg" role="tablist">${[['POS', 'Position players'], ['PIT', 'Pitching staff']].map(([id, l]) => `<button role="tab" data-action="depthSide" data-id="${id}" aria-pressed="${side === id}">${l}</button>`).join('')}</div>
-    <span class="small muted">${Fz.roster(s).length}/40 on the 40-man · Badge = stat-based <b>Performance Score</b> &amp; MLB rank in group · ⭐ = MLB Pipeline ${esc(T.short)} Top 30 at that primary position</span></div>
+    <span class="small muted">${Fz.roster(s).filter((p) => !/60/.test(p.status || '')).length}/40 on the 40-man (60-day IL excluded) · Badge = stat-based <b>Performance Score</b> &amp; MLB rank in group · ⭐ = MLB Pipeline ${esc(T.short)} Top 30 at that primary position</span></div>
   <div class="depth-grid">${dc.map(({ group: g, players, starters, backups, pipe }) => { const n = ns.find((x) => x.group.id === g.id); return `<div class="card depth-col"><div class="depth-head"><div><div class="depth-pos">${g.id}</div><div class="small muted">${esc(g.label)} · ${players.length}</div></div><span class="tag ${urgCls(n.urgency)}" title="${esc(n.why.join(' · '))}">Need ${n.score}</span></div>
     <div class="depth-label">${g.starters > 1 ? 'Top ' + g.starters : 'Starter'}</div>${starters.map((p) => pcard(p)).join('') || '<div class="empty small">Open slot</div>'}
     <div class="depth-label">Depth</div>${backups.slice(0, g.side === 'PIT' ? 6 : 3).map((p) => pcard(p, { compact: true })).join('') || '<div class="empty small">No depth</div>'}
