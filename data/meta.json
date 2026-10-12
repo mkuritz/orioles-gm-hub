@@ -1,26 +1,26 @@
 {
- "updated": "2026-10-11T19:52:50-04:00",
+ "updated": "2026-10-12T03:32:27-04:00",
  "data": {
-  "lastRun": "2026-10-11T19:52:50-04:00",
+  "lastRun": "2026-10-12T03:32:27-04:00",
   "mode": "full",
   "status": {
    "roster.json": "unchanged",
    "standings.json": "unchanged",
    "team_stats.json": "unchanged",
    "schedule.json": "updated",
-   "farm.json": "unchanged",
+   "farm.json": "updated",
    "draft.json": "unchanged",
-   "transactions.json": "unchanged",
+   "transactions.json": "updated",
    "injuries.json": "unchanged",
-   "news.json": "unchanged",
+   "news.json": "updated",
    "rumors.json": "unchanged",
-   "prospects.json": "FAILED (kept previous): Expecting value: line 1 column 1 (char 0)",
+   "prospects.json": "updated",
    "free_agents.json": "unchanged",
-   "trade_market.json": "unchanged",
+   "trade_market.json": "updated",
    "international.json": "unchanged",
-   "performance.json": "updated",
+   "performance.json": "unchanged",
    "arbitration.json": "unchanged"
   },
-  "lastFull": "2026-10-11T19:52:50-04:00"
+  "lastFull": "2026-10-12T03:32:27-04:00"
  }
 }

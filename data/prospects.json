@@ -1,6 +1,6 @@
 {
  "data": {
-  "fetched": "2026-10-11T19:39:36-04:00",
+  "fetched": "2026-10-12T03:32:16-04:00",
   "slugs": [
    "getPlayerRankingsFromSelection({\"limit\":30,\"slug\":\"sel-pr-2026-orioles\"})",
    "getPlayerRankingsFromSelection({\"limit\":100,\"slug\":\"sel-pr-2026-top100\"})"
@@ -1703,5 +1703,5 @@
   ],
   "top100_url": "https://www.mlb.com/milb/prospects/top100"
  },
- "updated": "2026-10-11T19:39:40-04:00"
+ "updated": "2026-10-12T03:32:18-04:00"
 }
