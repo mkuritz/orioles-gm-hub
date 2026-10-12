@@ -3,9 +3,21 @@
   "mlb_tx": [
    {
     "date": "2026-01-15",
+    "desc": "Baltimore Orioles signed free agent OF Gabriel Rosario to a minor league contract.",
+    "id": 836617,
+    "name": "Gabriel Rosario"
+   },
+   {
+    "date": "2026-01-15",
     "desc": "Baltimore Orioles signed free agent C Ray Faria to a minor league contract.",
     "id": 837830,
     "name": "Ray Faria"
+   },
+   {
+    "date": "2026-01-15",
+    "desc": "Baltimore Orioles signed free agent OF Joshddy Castillo to a minor league contract.",
+    "id": 825450,
+    "name": "Joshddy Castillo"
    },
    {
     "date": "2026-01-15",
@@ -15,15 +27,15 @@
    },
    {
     "date": "2026-01-15",
-    "desc": "Baltimore Orioles signed free agent OF Gabriel Rosario to a minor league contract.",
-    "id": 836617,
-    "name": "Gabriel Rosario"
+    "desc": "Baltimore Orioles signed free agent C Sam Huff to a minor league contract.",
+    "id": 669087,
+    "name": "Sam Huff"
    },
    {
     "date": "2026-01-15",
-    "desc": "Baltimore Orioles signed free agent OF Ariel Roque to a minor league contract.",
-    "id": 836596,
-    "name": "Ariel Roque"
+    "desc": "Baltimore Orioles signed free agent OF Pedro Gomez to a minor league contract.",
+    "id": 836612,
+    "name": "Pedro Gomez"
    },
    {
     "date": "2026-01-15",
@@ -39,33 +51,21 @@
    },
    {
     "date": "2026-01-15",
-    "desc": "Baltimore Orioles signed free agent C Sam Huff to a minor league contract.",
-    "id": 669087,
-    "name": "Sam Huff"
-   },
-   {
-    "date": "2026-01-15",
-    "desc": "Baltimore Orioles signed free agent SS Jhostin Berroa to a minor league contract.",
-    "id": 837849,
-    "name": "Jhostin Berroa"
-   },
-   {
-    "date": "2026-01-15",
-    "desc": "Baltimore Orioles signed free agent OF Joshddy Castillo to a minor league contract.",
-    "id": 825450,
-    "name": "Joshddy Castillo"
-   },
-   {
-    "date": "2026-01-15",
     "desc": "Baltimore Orioles signed free agent LHP Andri Hidalgo to a minor league contract.",
     "id": 836602,
     "name": "Andri Hidalgo"
    },
    {
     "date": "2026-01-15",
-    "desc": "Baltimore Orioles signed free agent OF Pedro Gomez to a minor league contract.",
-    "id": 836612,
-    "name": "Pedro Gomez"
+    "desc": "Baltimore Orioles signed free agent OF Ariel Roque to a minor league contract.",
+    "id": 836596,
+    "name": "Ariel Roque"
+   },
+   {
+    "date": "2026-01-15",
+    "desc": "Baltimore Orioles signed free agent SS Jhostin Berroa to a minor league contract.",
+    "id": 837849,
+    "name": "Jhostin Berroa"
    },
    {
     "date": "2026-01-20",
@@ -105,15 +105,15 @@
    },
    {
     "date": "2026-04-06",
-    "desc": "Baltimore Orioles signed free agent IF Roberto Gabot to a minor league contract.",
-    "id": 833302,
-    "name": "Roberto Gabot"
-   },
-   {
-    "date": "2026-04-06",
     "desc": "Baltimore Orioles signed free agent C Josnaider Orellana to a minor league contract.",
     "id": 800428,
     "name": "Josnaider Orellana"
+   },
+   {
+    "date": "2026-04-06",
+    "desc": "Baltimore Orioles signed free agent IF Roberto Gabot to a minor league contract.",
+    "id": 833302,
+    "name": "Roberto Gabot"
    },
    {
     "date": "2026-04-15",
@@ -123,15 +123,15 @@
    },
    {
     "date": "2026-04-17",
-    "desc": "Baltimore Orioles signed free agent LHP Brendan Parks to a minor league contract.",
-    "id": 836150,
-    "name": "Brendan Parks"
-   },
-   {
-    "date": "2026-04-17",
     "desc": "Baltimore Orioles signed free agent RHP Jason Shockley to a minor league contract.",
     "id": 811949,
     "name": "Jason Shockley"
+   },
+   {
+    "date": "2026-04-17",
+    "desc": "Baltimore Orioles signed free agent LHP Brendan Parks to a minor league contract.",
+    "id": 836150,
+    "name": "Brendan Parks"
    },
    {
     "date": "2026-04-21",
@@ -201,15 +201,15 @@
    },
    {
     "date": "2026-05-26",
-    "desc": "Baltimore Orioles signed free agent RHP Henry Ramirez to a minor league contract.",
-    "id": 827749,
-    "name": "Henry Ramirez"
-   },
-   {
-    "date": "2026-05-26",
     "desc": "Baltimore Orioles signed free agent SS Mason Dinesen to a minor league contract.",
     "id": 828375,
     "name": "Mason Dinesen"
+   },
+   {
+    "date": "2026-05-26",
+    "desc": "Baltimore Orioles signed free agent RHP Henry Ramirez to a minor league contract.",
+    "id": 827749,
+    "name": "Henry Ramirez"
    },
    {
     "date": "2026-05-29",
@@ -249,15 +249,15 @@
    },
    {
     "date": "2026-06-13",
-    "desc": "Baltimore Orioles signed free agent SS Jarol Capellan to a minor league contract.",
-    "id": 815857,
-    "name": "Jarol Capellan"
-   },
-   {
-    "date": "2026-06-13",
     "desc": "Baltimore Orioles signed free agent 2B Railin Tea to a minor league contract.",
     "id": 808038,
     "name": "Railin Tea"
+   },
+   {
+    "date": "2026-06-13",
+    "desc": "Baltimore Orioles signed free agent SS Jarol Capellan to a minor league contract.",
+    "id": 815857,
+    "name": "Jarol Capellan"
    },
    {
     "date": "2026-06-25",
@@ -282,26 +282,6 @@
   },
   "signings": [
    {
-    "age": 17,
-    "bonus": null,
-    "bonus_text": "not public in a free source",
-    "country": "Venezuela",
-    "month": "2026-01-15",
-    "name": "Ray Faria",
-    "period": 2026,
-    "pos": "C"
-   },
-   {
-    "age": 17,
-    "bonus": null,
-    "bonus_text": "not public in a free source",
-    "country": "Venezuela",
-    "month": "2026-01-15",
-    "name": "Luis Dias",
-    "period": 2026,
-    "pos": "C"
-   },
-   {
     "age": 18,
     "bonus": null,
     "bonus_text": "not public in a free source",
@@ -315,9 +295,39 @@
     "age": 17,
     "bonus": null,
     "bonus_text": "not public in a free source",
+    "country": "Venezuela",
+    "month": "2026-01-15",
+    "name": "Ray Faria",
+    "period": 2026,
+    "pos": "C"
+   },
+   {
+    "age": 17,
+    "bonus": null,
+    "bonus_text": "not public in a free source",
     "country": "Dominican Republic",
     "month": "2026-01-15",
-    "name": "Ariel Roque",
+    "name": "Joshddy Castillo",
+    "period": 2026,
+    "pos": "OF"
+   },
+   {
+    "age": 17,
+    "bonus": null,
+    "bonus_text": "not public in a free source",
+    "country": "Venezuela",
+    "month": "2026-01-15",
+    "name": "Luis Dias",
+    "period": 2026,
+    "pos": "C"
+   },
+   {
+    "age": 17,
+    "bonus": null,
+    "bonus_text": "not public in a free source",
+    "country": "Dominican Republic",
+    "month": "2026-01-15",
+    "name": "Pedro Gomez",
     "period": 2026,
     "pos": "OF"
    },
@@ -347,26 +357,6 @@
     "bonus_text": "not public in a free source",
     "country": "Dominican Republic",
     "month": "2026-01-15",
-    "name": "Jhostin Berroa",
-    "period": 2026,
-    "pos": "SS"
-   },
-   {
-    "age": 17,
-    "bonus": null,
-    "bonus_text": "not public in a free source",
-    "country": "Dominican Republic",
-    "month": "2026-01-15",
-    "name": "Joshddy Castillo",
-    "period": 2026,
-    "pos": "OF"
-   },
-   {
-    "age": 17,
-    "bonus": null,
-    "bonus_text": "not public in a free source",
-    "country": "Dominican Republic",
-    "month": "2026-01-15",
     "name": "Andri Hidalgo",
     "period": 2026,
     "pos": "P"
@@ -377,9 +367,19 @@
     "bonus_text": "not public in a free source",
     "country": "Dominican Republic",
     "month": "2026-01-15",
-    "name": "Pedro Gomez",
+    "name": "Ariel Roque",
     "period": 2026,
     "pos": "OF"
+   },
+   {
+    "age": 17,
+    "bonus": null,
+    "bonus_text": "not public in a free source",
+    "country": "Dominican Republic",
+    "month": "2026-01-15",
+    "name": "Jhostin Berroa",
+    "period": 2026,
+    "pos": "SS"
    },
    {
     "age": 18,
@@ -422,16 +422,6 @@
     "pos": "P"
    },
    {
-    "age": 19,
-    "bonus": null,
-    "bonus_text": "not public in a free source",
-    "country": "Dominican Republic",
-    "month": "2026-04-06",
-    "name": "Roberto Gabot",
-    "period": 2026,
-    "pos": "IF"
-   },
-   {
     "age": 22,
     "bonus": null,
     "bonus_text": "not public in a free source",
@@ -440,6 +430,16 @@
     "name": "Josnaider Orellana",
     "period": 2026,
     "pos": "C"
+   },
+   {
+    "age": 19,
+    "bonus": null,
+    "bonus_text": "not public in a free source",
+    "country": "Dominican Republic",
+    "month": "2026-04-06",
+    "name": "Roberto Gabot",
+    "period": 2026,
+    "pos": "IF"
    },
    {
     "age": 18,
@@ -537,9 +537,9 @@
     "bonus_text": "not public in a free source",
     "country": "Dominican Republic",
     "month": "2026-06-13",
-    "name": "Jarol Capellan",
+    "name": "Railin Tea",
     "period": 2026,
-    "pos": "SS"
+    "pos": "2B"
    },
    {
     "age": 20,
@@ -547,9 +547,9 @@
     "bonus_text": "not public in a free source",
     "country": "Dominican Republic",
     "month": "2026-06-13",
-    "name": "Railin Tea",
+    "name": "Jarol Capellan",
     "period": 2026,
-    "pos": "2B"
+    "pos": "SS"
    },
    {
     "age": 18,
@@ -565,5 +565,5 @@
   "source": "MLB Stats API transactions (non-US-born players signed to minor league deals since Jan 15)",
   "url": "https://statsapi.mlb.com/api/v1/transactions?teamId=110"
  },
- "updated": "2026-10-11T19:40:24-04:00"
+ "updated": "2026-10-12T17:39:07-04:00"
 }

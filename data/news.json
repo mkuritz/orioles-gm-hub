@@ -2,6 +2,18 @@
  "data": {
   "items": [
    {
+    "date": "2026-10-12T16:20-04:00",
+    "kind": "news",
+    "players": [],
+    "source": "MLB.com",
+    "summary": "",
+    "tags": [
+     "prospect"
+    ],
+    "title": "Watch O's prospects in Arizona Fall League action",
+    "url": "https://www.mlb.com/orioles/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026"
+   },
+   {
     "date": "2026-10-12T09:34-04:00",
     "kind": "news",
     "players": [
@@ -14,18 +26,6 @@
     ],
     "title": "Orioles' No. 5 prospect Ike Irish feeling the pull of the Arizona Fall League",
     "url": "https://www.mlb.com/orioles/news/orioles-arizona-fall-league-overview-2026"
-   },
-   {
-    "date": "2026-10-11T22:54-04:00",
-    "kind": "news",
-    "players": [],
-    "source": "MLB.com",
-    "summary": "",
-    "tags": [
-     "prospect"
-    ],
-    "title": "Watch top prospects in Arizona Fall League action",
-    "url": "https://www.mlb.com/orioles/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026"
    },
    {
     "date": "2026-10-09T06:36-04:00",
@@ -614,5 +614,5 @@
    }
   ]
  },
- "updated": "2026-10-12T16:15:42-04:00"
+ "updated": "2026-10-12T17:39:03-04:00"
 }

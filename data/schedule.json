@@ -1930,13 +1930,13 @@
     "type": "L"
    },
    {
-    "as": 0,
+    "as": 1,
     "away": "Los Angeles Dodgers",
     "date": "2026-10-12",
     "home": "Milwaukee Brewers",
-    "hs": 0,
+    "hs": 1,
     "series": "NL Championship Series",
-    "status": "Pre-Game",
+    "status": "In Progress",
     "type": "L"
    },
    {
@@ -2131,5 +2131,5 @@
    }
   ]
  },
- "updated": "2026-10-12T16:15:39-04:00"
+ "updated": "2026-10-12T17:39:00-04:00"
 }
