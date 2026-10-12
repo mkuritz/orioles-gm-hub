@@ -593,7 +593,7 @@ function renderNav() {
     if (m.id === 'depth') { const n = Fz.needs(state).filter((x) => x.urgency === 'Critical').length; if (n) badge = `<span class="badge bad">${n}</span>`; }
     if (m.id === 'scenarios' && saved.length) badge = `<span class="badge">${saved.length}</span>`;
     return `<button class="nav-btn" data-action="module" data-id="${m.id}" ${state.ui.module === m.id ? 'aria-current="page"' : ''}>${ICONS[m.id] || ICONS.hub}<span>${m.label}</span>${badge}</button>`;
-  }).join('')).join('');
+  }).join('')).join('')+ `<div class="nav-label">Strategy</div><a class="nav-btn" href="planner.html" style="text-decoration:none">${ICONS.scenarios || ''}<span>Strategy Planner</span><span class="badge ok">New</span></a>`;
   els.scenarioSeg.innerHTML = Object.keys(SCEN).map((k) => `<button data-action="scenario" data-id="${k}" aria-pressed="${state.scenario === k}" title="${esc(SCEN[k].desc)}">${SCEN[k].label}</button>`).join('');
   const sel = document.getElementById('scenarioSelect'); if (sel) sel.innerHTML = Object.keys(SCEN).map((k) => `<option value="${k}" ${state.scenario === k ? 'selected' : ''}>${SCEN[k].label}</option>`).join('');
 }
