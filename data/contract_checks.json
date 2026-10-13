@@ -30,15 +30,6 @@
     "type": "Claimed Off Waivers"
    },
    {
-    "code": "CLW",
-    "date": "2026-09-03",
-    "desc": "New York Mets claimed RHP Cameron Weston off waivers from Baltimore Orioles.",
-    "keyword": false,
-    "pid": 687721,
-    "player": "Cameron Weston",
-    "type": "Claimed Off Waivers"
-   },
-   {
     "code": "REL",
     "date": "2026-09-01",
     "desc": "Baltimore Orioles released LHP Nick Raquet.",
@@ -55,24 +46,6 @@
     "pid": 673357,
     "player": "Luis Robert Jr.",
     "type": "Claimed Off Waivers"
-   },
-   {
-    "code": "CLW",
-    "date": "2026-08-31",
-    "desc": "Baltimore Orioles claimed CF Luis Robert Jr. off waivers from New York Mets.",
-    "keyword": false,
-    "pid": 673357,
-    "player": "Luis Robert Jr.",
-    "type": "Claimed Off Waivers"
-   },
-   {
-    "code": "TR",
-    "date": "2026-08-12",
-    "desc": "Boston Red Sox traded CF Harold Rivas to Baltimore Orioles. Player to be named later from the 8/3 Adley Rutschman trade.",
-    "keyword": false,
-    "pid": 829093,
-    "player": "Harold Rivas",
-    "type": "Trade"
    },
    {
     "code": "TR",
@@ -95,64 +68,19 @@
    {
     "code": "TR",
     "date": "2026-08-03",
-    "desc": "Miami Marlins traded RF Rece Hinds to Baltimore Orioles for cash.",
+    "desc": "Washington Nationals traded LF Christian Franklin to Baltimore Orioles for RHP Joe Glassey.",
     "keyword": false,
-    "pid": null,
-    "player": null,
+    "pid": 681047,
+    "player": "Christian Franklin",
     "type": "Trade"
    },
    {
     "code": "TR",
     "date": "2026-08-03",
-    "desc": "Baltimore Orioles traded C Adley Rutschman, C Jake Rogers and cash to Boston Red Sox for RHP Kyson Witherspoon, CF Enddy Azocar, C Carlos Narv\u00e1ez, RHP Anthony Eyanson and Player To Be Named Later.",
+    "desc": "Washington Nationals traded LF Christian Franklin to Baltimore Orioles for RHP Joe Glassey.",
     "keyword": false,
-    "pid": 668939,
-    "player": "Adley Rutschman",
-    "type": "Trade"
-   },
-   {
-    "code": "TR",
-    "date": "2026-08-03",
-    "desc": "Baltimore Orioles traded C Adley Rutschman, C Jake Rogers and cash to Boston Red Sox for RHP Kyson Witherspoon, CF Enddy Azocar, C Carlos Narv\u00e1ez, RHP Anthony Eyanson and Player To Be Named Later.",
-    "keyword": false,
-    "pid": 821150,
-    "player": "Enddy Azocar",
-    "type": "Trade"
-   },
-   {
-    "code": "TR",
-    "date": "2026-08-03",
-    "desc": "Baltimore Orioles traded C Adley Rutschman, C Jake Rogers and cash to Boston Red Sox for RHP Kyson Witherspoon, CF Enddy Azocar, C Carlos Narv\u00e1ez, RHP Anthony Eyanson and Player To Be Named Later.",
-    "keyword": false,
-    "pid": 804817,
-    "player": "Kyson Witherspoon",
-    "type": "Trade"
-   },
-   {
-    "code": "TR",
-    "date": "2026-08-03",
-    "desc": "Baltimore Orioles traded C Adley Rutschman, C Jake Rogers and cash to Boston Red Sox for RHP Kyson Witherspoon, CF Enddy Azocar, C Carlos Narv\u00e1ez, RHP Anthony Eyanson and Player To Be Named Later.",
-    "keyword": false,
-    "pid": 809254,
-    "player": "Anthony Eyanson",
-    "type": "Trade"
-   },
-   {
-    "code": "TR",
-    "date": "2026-08-03",
-    "desc": "Baltimore Orioles traded C Adley Rutschman, C Jake Rogers and cash to Boston Red Sox for RHP Kyson Witherspoon, CF Enddy Azocar, C Carlos Narv\u00e1ez, RHP Anthony Eyanson and Player To Be Named Later.",
-    "keyword": false,
-    "pid": 668670,
-    "player": "Jake Rogers",
-    "type": "Trade"
-   },
-   {
-    "code": "TR",
-    "date": "2026-08-03",
-    "desc": "Baltimore Orioles traded C Adley Rutschman, C Jake Rogers and cash to Boston Red Sox for RHP Kyson Witherspoon, CF Enddy Azocar, C Carlos Narv\u00e1ez, RHP Anthony Eyanson and Player To Be Named Later.",
-    "keyword": false,
-    "pid": 665966,
-    "player": "Carlos Narv\u00e1ez",
+    "pid": 812521,
+    "player": "Joe Glassey",
     "type": "Trade"
    },
    {
@@ -167,19 +95,10 @@
    {
     "code": "TR",
     "date": "2026-08-03",
-    "desc": "Baltimore Orioles traded C Adley Rutschman, C Jake Rogers and cash to Boston Red Sox for RHP Kyson Witherspoon, CF Enddy Azocar, C Carlos Narv\u00e1ez, RHP Anthony Eyanson and Player To Be Named Later.",
+    "desc": "Tampa Bay Rays traded RHP Michael Forret to Baltimore Orioles for RHP Tyler Wells.",
     "keyword": false,
-    "pid": null,
-    "player": null,
-    "type": "Trade"
-   },
-   {
-    "code": "TR",
-    "date": "2026-08-03",
-    "desc": "Baltimore Orioles traded LF Taylor Ward to Seattle Mariners for RHP Alex Hoppe, RHP Brock Moore and RHP Harrison Kreiling.",
-    "keyword": false,
-    "pid": 695380,
-    "player": "Alex Hoppe",
+    "pid": 669330,
+    "player": "Tyler Wells",
     "type": "Trade"
    },
    {
@@ -189,222 +108,6 @@
     "keyword": false,
     "pid": 676051,
     "player": "Codi Heuer",
-    "type": "Trade"
-   },
-   {
-    "code": "TR",
-    "date": "2026-08-03",
-    "desc": "Baltimore Orioles traded LF Taylor Ward to Seattle Mariners for RHP Alex Hoppe, RHP Brock Moore and RHP Harrison Kreiling.",
-    "keyword": false,
-    "pid": 822160,
-    "player": "Brock Moore",
-    "type": "Trade"
-   },
-   {
-    "code": "TR",
-    "date": "2026-08-03",
-    "desc": "Baltimore Orioles traded LF Taylor Ward to Seattle Mariners for RHP Alex Hoppe, RHP Brock Moore and RHP Harrison Kreiling.",
-    "keyword": false,
-    "pid": 621493,
-    "player": "Taylor Ward",
-    "type": "Trade"
-   },
-   {
-    "code": "TR",
-    "date": "2026-08-03",
-    "desc": "Baltimore Orioles traded LF Taylor Ward to Seattle Mariners for RHP Alex Hoppe, RHP Brock Moore and RHP Harrison Kreiling.",
-    "keyword": false,
-    "pid": 801653,
-    "player": "Harrison Kreiling",
-    "type": "Trade"
-   },
-   {
-    "code": "TR",
-    "date": "2026-08-03",
-    "desc": "Tampa Bay Rays traded RHP Michael Forret to Baltimore Orioles for RHP Tyler Wells.",
-    "keyword": false,
-    "pid": 669330,
-    "player": "Tyler Wells",
-    "type": "Trade"
-   },
-   {
-    "code": "TR",
-    "date": "2026-08-03",
-    "desc": "Tampa Bay Rays traded RHP Michael Forret to Baltimore Orioles for RHP Tyler Wells.",
-    "keyword": false,
-    "pid": 702650,
-    "player": "Michael Forret",
-    "type": "Trade"
-   },
-   {
-    "code": "TR",
-    "date": "2026-08-03",
-    "desc": "Milwaukee Brewers traded RHP Codi Heuer to Baltimore Orioles for cash.",
-    "keyword": false,
-    "pid": null,
-    "player": null,
-    "type": "Trade"
-   },
-   {
-    "code": "TR",
-    "date": "2026-08-03",
-    "desc": "Washington Nationals traded LF Christian Franklin to Baltimore Orioles for RHP Joe Glassey.",
-    "keyword": false,
-    "pid": 812521,
-    "player": "Joe Glassey",
-    "type": "Trade"
-   },
-   {
-    "code": "TR",
-    "date": "2026-08-03",
-    "desc": "Washington Nationals traded LF Christian Franklin to Baltimore Orioles for RHP Joe Glassey.",
-    "keyword": false,
-    "pid": 681047,
-    "player": "Christian Franklin",
-    "type": "Trade"
-   },
-   {
-    "code": "TR",
-    "date": "2026-08-03",
-    "desc": "Miami Marlins traded RF Rece Hinds to Baltimore Orioles for cash.",
-    "keyword": false,
-    "pid": 677956,
-    "player": "Rece Hinds",
-    "type": "Trade"
-   },
-   {
-    "code": "TR",
-    "date": "2026-08-03",
-    "desc": "Baltimore Orioles traded C Adley Rutschman, C Jake Rogers and cash to Boston Red Sox for RHP Kyson Witherspoon, CF Enddy Azocar, C Carlos Narv\u00e1ez, RHP Anthony Eyanson and Player To Be Named Later.",
-    "keyword": false,
-    "pid": 668939,
-    "player": "Adley Rutschman",
-    "type": "Trade"
-   },
-   {
-    "code": "TR",
-    "date": "2026-08-03",
-    "desc": "Baltimore Orioles traded C Adley Rutschman, C Jake Rogers and cash to Boston Red Sox for RHP Kyson Witherspoon, CF Enddy Azocar, C Carlos Narv\u00e1ez, RHP Anthony Eyanson and Player To Be Named Later.",
-    "keyword": false,
-    "pid": 821150,
-    "player": "Enddy Azocar",
-    "type": "Trade"
-   },
-   {
-    "code": "TR",
-    "date": "2026-08-03",
-    "desc": "Baltimore Orioles traded C Adley Rutschman, C Jake Rogers and cash to Boston Red Sox for RHP Kyson Witherspoon, CF Enddy Azocar, C Carlos Narv\u00e1ez, RHP Anthony Eyanson and Player To Be Named Later.",
-    "keyword": false,
-    "pid": 809254,
-    "player": "Anthony Eyanson",
-    "type": "Trade"
-   },
-   {
-    "code": "TR",
-    "date": "2026-08-03",
-    "desc": "Baltimore Orioles traded C Adley Rutschman, C Jake Rogers and cash to Boston Red Sox for RHP Kyson Witherspoon, CF Enddy Azocar, C Carlos Narv\u00e1ez, RHP Anthony Eyanson and Player To Be Named Later.",
-    "keyword": false,
-    "pid": 668670,
-    "player": "Jake Rogers",
-    "type": "Trade"
-   },
-   {
-    "code": "TR",
-    "date": "2026-08-03",
-    "desc": "Baltimore Orioles traded C Adley Rutschman, C Jake Rogers and cash to Boston Red Sox for RHP Kyson Witherspoon, CF Enddy Azocar, C Carlos Narv\u00e1ez, RHP Anthony Eyanson and Player To Be Named Later.",
-    "keyword": false,
-    "pid": null,
-    "player": null,
-    "type": "Trade"
-   },
-   {
-    "code": "TR",
-    "date": "2026-08-03",
-    "desc": "Baltimore Orioles traded C Adley Rutschman, C Jake Rogers and cash to Boston Red Sox for RHP Kyson Witherspoon, CF Enddy Azocar, C Carlos Narv\u00e1ez, RHP Anthony Eyanson and Player To Be Named Later.",
-    "keyword": false,
-    "pid": 665966,
-    "player": "Carlos Narv\u00e1ez",
-    "type": "Trade"
-   },
-   {
-    "code": "TR",
-    "date": "2026-08-03",
-    "desc": "Baltimore Orioles traded C Adley Rutschman, C Jake Rogers and cash to Boston Red Sox for RHP Kyson Witherspoon, CF Enddy Azocar, C Carlos Narv\u00e1ez, RHP Anthony Eyanson and Player To Be Named Later.",
-    "keyword": false,
-    "pid": null,
-    "player": null,
-    "type": "Trade"
-   },
-   {
-    "code": "TR",
-    "date": "2026-08-03",
-    "desc": "Baltimore Orioles traded C Adley Rutschman, C Jake Rogers and cash to Boston Red Sox for RHP Kyson Witherspoon, CF Enddy Azocar, C Carlos Narv\u00e1ez, RHP Anthony Eyanson and Player To Be Named Later.",
-    "keyword": false,
-    "pid": 804817,
-    "player": "Kyson Witherspoon",
-    "type": "Trade"
-   },
-   {
-    "code": "TR",
-    "date": "2026-08-03",
-    "desc": "Washington Nationals traded LF Christian Franklin to Baltimore Orioles for RHP Joe Glassey.",
-    "keyword": false,
-    "pid": 681047,
-    "player": "Christian Franklin",
-    "type": "Trade"
-   },
-   {
-    "code": "TR",
-    "date": "2026-08-03",
-    "desc": "Washington Nationals traded LF Christian Franklin to Baltimore Orioles for RHP Joe Glassey.",
-    "keyword": false,
-    "pid": 812521,
-    "player": "Joe Glassey",
-    "type": "Trade"
-   },
-   {
-    "code": "TR",
-    "date": "2026-08-03",
-    "desc": "Baltimore Orioles traded LF Taylor Ward to Seattle Mariners for RHP Alex Hoppe, RHP Brock Moore and RHP Harrison Kreiling.",
-    "keyword": false,
-    "pid": 621493,
-    "player": "Taylor Ward",
-    "type": "Trade"
-   },
-   {
-    "code": "TR",
-    "date": "2026-08-03",
-    "desc": "Baltimore Orioles traded LF Taylor Ward to Seattle Mariners for RHP Alex Hoppe, RHP Brock Moore and RHP Harrison Kreiling.",
-    "keyword": false,
-    "pid": 822160,
-    "player": "Brock Moore",
-    "type": "Trade"
-   },
-   {
-    "code": "TR",
-    "date": "2026-08-03",
-    "desc": "Baltimore Orioles traded LF Taylor Ward to Seattle Mariners for RHP Alex Hoppe, RHP Brock Moore and RHP Harrison Kreiling.",
-    "keyword": false,
-    "pid": 695380,
-    "player": "Alex Hoppe",
-    "type": "Trade"
-   },
-   {
-    "code": "TR",
-    "date": "2026-08-03",
-    "desc": "Baltimore Orioles traded LF Taylor Ward to Seattle Mariners for RHP Alex Hoppe, RHP Brock Moore and RHP Harrison Kreiling.",
-    "keyword": false,
-    "pid": 801653,
-    "player": "Harrison Kreiling",
-    "type": "Trade"
-   },
-   {
-    "code": "TR",
-    "date": "2026-08-03",
-    "desc": "Tampa Bay Rays traded RHP Michael Forret to Baltimore Orioles for RHP Tyler Wells.",
-    "keyword": false,
-    "pid": 669330,
-    "player": "Tyler Wells",
     "type": "Trade"
    },
    {
@@ -446,28 +149,100 @@
    {
     "code": "TR",
     "date": "2026-08-03",
-    "desc": "Milwaukee Brewers traded RHP Codi Heuer to Baltimore Orioles for cash.",
+    "desc": "Baltimore Orioles traded LF Taylor Ward to Seattle Mariners for RHP Alex Hoppe, RHP Brock Moore and RHP Harrison Kreiling.",
     "keyword": false,
-    "pid": 676051,
-    "player": "Codi Heuer",
+    "pid": 695380,
+    "player": "Alex Hoppe",
     "type": "Trade"
    },
    {
     "code": "TR",
-    "date": "2026-08-01",
-    "desc": "Baltimore Orioles traded RHP Dean Kremer to Minnesota Twins for OF Jhomnardo Reyes.",
+    "date": "2026-08-03",
+    "desc": "Baltimore Orioles traded C Adley Rutschman, C Jake Rogers and cash to Boston Red Sox for RHP Kyson Witherspoon, CF Enddy Azocar, C Carlos Narv\u00e1ez, RHP Anthony Eyanson and Player To Be Named Later.",
     "keyword": false,
-    "pid": 665152,
-    "player": "Dean Kremer",
+    "pid": null,
+    "player": null,
     "type": "Trade"
    },
    {
     "code": "TR",
-    "date": "2026-08-01",
-    "desc": "Baltimore Orioles traded RHP Dean Kremer to Minnesota Twins for OF Jhomnardo Reyes.",
+    "date": "2026-08-03",
+    "desc": "Baltimore Orioles traded C Adley Rutschman, C Jake Rogers and cash to Boston Red Sox for RHP Kyson Witherspoon, CF Enddy Azocar, C Carlos Narv\u00e1ez, RHP Anthony Eyanson and Player To Be Named Later.",
     "keyword": false,
-    "pid": 829076,
-    "player": "Jhomnardo Reyes",
+    "pid": 665966,
+    "player": "Carlos Narv\u00e1ez",
+    "type": "Trade"
+   },
+   {
+    "code": "TR",
+    "date": "2026-08-03",
+    "desc": "Baltimore Orioles traded C Adley Rutschman, C Jake Rogers and cash to Boston Red Sox for RHP Kyson Witherspoon, CF Enddy Azocar, C Carlos Narv\u00e1ez, RHP Anthony Eyanson and Player To Be Named Later.",
+    "keyword": false,
+    "pid": 668939,
+    "player": "Adley Rutschman",
+    "type": "Trade"
+   },
+   {
+    "code": "TR",
+    "date": "2026-08-03",
+    "desc": "Baltimore Orioles traded C Adley Rutschman, C Jake Rogers and cash to Boston Red Sox for RHP Kyson Witherspoon, CF Enddy Azocar, C Carlos Narv\u00e1ez, RHP Anthony Eyanson and Player To Be Named Later.",
+    "keyword": false,
+    "pid": 821150,
+    "player": "Enddy Azocar",
+    "type": "Trade"
+   },
+   {
+    "code": "TR",
+    "date": "2026-08-03",
+    "desc": "Baltimore Orioles traded C Adley Rutschman, C Jake Rogers and cash to Boston Red Sox for RHP Kyson Witherspoon, CF Enddy Azocar, C Carlos Narv\u00e1ez, RHP Anthony Eyanson and Player To Be Named Later.",
+    "keyword": false,
+    "pid": 804817,
+    "player": "Kyson Witherspoon",
+    "type": "Trade"
+   },
+   {
+    "code": "TR",
+    "date": "2026-08-03",
+    "desc": "Baltimore Orioles traded C Adley Rutschman, C Jake Rogers and cash to Boston Red Sox for RHP Kyson Witherspoon, CF Enddy Azocar, C Carlos Narv\u00e1ez, RHP Anthony Eyanson and Player To Be Named Later.",
+    "keyword": false,
+    "pid": 809254,
+    "player": "Anthony Eyanson",
+    "type": "Trade"
+   },
+   {
+    "code": "TR",
+    "date": "2026-08-03",
+    "desc": "Baltimore Orioles traded LF Taylor Ward to Seattle Mariners for RHP Alex Hoppe, RHP Brock Moore and RHP Harrison Kreiling.",
+    "keyword": false,
+    "pid": 621493,
+    "player": "Taylor Ward",
+    "type": "Trade"
+   },
+   {
+    "code": "TR",
+    "date": "2026-08-03",
+    "desc": "Baltimore Orioles traded LF Taylor Ward to Seattle Mariners for RHP Alex Hoppe, RHP Brock Moore and RHP Harrison Kreiling.",
+    "keyword": false,
+    "pid": 801653,
+    "player": "Harrison Kreiling",
+    "type": "Trade"
+   },
+   {
+    "code": "TR",
+    "date": "2026-08-03",
+    "desc": "Baltimore Orioles traded LF Taylor Ward to Seattle Mariners for RHP Alex Hoppe, RHP Brock Moore and RHP Harrison Kreiling.",
+    "keyword": false,
+    "pid": 822160,
+    "player": "Brock Moore",
+    "type": "Trade"
+   },
+   {
+    "code": "TR",
+    "date": "2026-08-03",
+    "desc": "Baltimore Orioles traded C Adley Rutschman, C Jake Rogers and cash to Boston Red Sox for RHP Kyson Witherspoon, CF Enddy Azocar, C Carlos Narv\u00e1ez, RHP Anthony Eyanson and Player To Be Named Later.",
+    "keyword": false,
+    "pid": 668670,
+    "player": "Jake Rogers",
     "type": "Trade"
    },
    {
@@ -508,42 +283,6 @@
    },
    {
     "code": "TR",
-    "date": "2026-07-30",
-    "desc": "Detroit Tigers traded C Jake Rogers to Baltimore Orioles for RHP Zane Barnhart.",
-    "keyword": false,
-    "pid": 668670,
-    "player": "Jake Rogers",
-    "type": "Trade"
-   },
-   {
-    "code": "TR",
-    "date": "2026-07-30",
-    "desc": "Detroit Tigers traded C Jake Rogers to Baltimore Orioles for RHP Zane Barnhart.",
-    "keyword": false,
-    "pid": 813829,
-    "player": "Zane Barnhart",
-    "type": "Trade"
-   },
-   {
-    "code": "TR",
-    "date": "2026-07-27",
-    "desc": "Baltimore Orioles traded RF Johnathan Rodr\u00edguez to Pittsburgh Pirates for cash.",
-    "keyword": false,
-    "pid": 671286,
-    "player": "Johnathan Rodr\u00edguez",
-    "type": "Trade"
-   },
-   {
-    "code": "TR",
-    "date": "2026-07-27",
-    "desc": "Baltimore Orioles traded RF Johnathan Rodr\u00edguez to Pittsburgh Pirates for cash.",
-    "keyword": false,
-    "pid": null,
-    "player": null,
-    "type": "Trade"
-   },
-   {
-    "code": "TR",
     "date": "2026-07-27",
     "desc": "Baltimore Orioles traded RF Johnathan Rodr\u00edguez to Pittsburgh Pirates for cash.",
     "keyword": false,
@@ -559,78 +298,6 @@
     "pid": 671286,
     "player": "Johnathan Rodr\u00edguez",
     "type": "Trade"
-   },
-   {
-    "code": "SGN",
-    "date": "2026-07-25",
-    "desc": "Baltimore Orioles signed RHP Braden Smith.",
-    "keyword": false,
-    "pid": 838365,
-    "player": "Braden Smith",
-    "type": "Signed"
-   },
-   {
-    "code": "SGN",
-    "date": "2026-07-25",
-    "desc": "Baltimore Orioles signed C Leo Marrero.",
-    "keyword": false,
-    "pid": 835831,
-    "player": "Leo Marrero",
-    "type": "Signed"
-   },
-   {
-    "code": "SGN",
-    "date": "2026-07-25",
-    "desc": "Baltimore Orioles signed RHP Garrison Sumner.",
-    "keyword": false,
-    "pid": 809828,
-    "player": "Garrison Sumner",
-    "type": "Signed"
-   },
-   {
-    "code": "SGN",
-    "date": "2026-07-25",
-    "desc": "Baltimore Orioles signed RHP Ross Norman.",
-    "keyword": false,
-    "pid": 812727,
-    "player": "Ross Norman",
-    "type": "Signed"
-   },
-   {
-    "code": "SGN",
-    "date": "2026-07-25",
-    "desc": "Baltimore Orioles signed RHP Miguel Hugas.",
-    "keyword": false,
-    "pid": 806125,
-    "player": "Miguel Hugas",
-    "type": "Signed"
-   },
-   {
-    "code": "SGN",
-    "date": "2026-07-25",
-    "desc": "Baltimore Orioles signed OF Kevin Roberts Jr..",
-    "keyword": false,
-    "pid": 828809,
-    "player": "Kevin Roberts Jr.",
-    "type": "Signed"
-   },
-   {
-    "code": "SGN",
-    "date": "2026-07-25",
-    "desc": "Baltimore Orioles signed RHP Diego Gutierrez.",
-    "keyword": false,
-    "pid": 822622,
-    "player": "Diego Gutierrez",
-    "type": "Signed"
-   },
-   {
-    "code": "SGN",
-    "date": "2026-07-25",
-    "desc": "Baltimore Orioles signed SS Will Plunkett.",
-    "keyword": false,
-    "pid": 836672,
-    "player": "Will Plunkett",
-    "type": "Signed"
    },
    {
     "code": "SGN",
@@ -661,6 +328,78 @@
    },
    {
     "code": "SGN",
+    "date": "2026-07-25",
+    "desc": "Baltimore Orioles signed RHP Diego Gutierrez.",
+    "keyword": false,
+    "pid": 822622,
+    "player": "Diego Gutierrez",
+    "type": "Signed"
+   },
+   {
+    "code": "SGN",
+    "date": "2026-07-25",
+    "desc": "Baltimore Orioles signed C Leo Marrero.",
+    "keyword": false,
+    "pid": 835831,
+    "player": "Leo Marrero",
+    "type": "Signed"
+   },
+   {
+    "code": "SGN",
+    "date": "2026-07-25",
+    "desc": "Baltimore Orioles signed RHP Miguel Hugas.",
+    "keyword": false,
+    "pid": 806125,
+    "player": "Miguel Hugas",
+    "type": "Signed"
+   },
+   {
+    "code": "SGN",
+    "date": "2026-07-25",
+    "desc": "Baltimore Orioles signed OF Kevin Roberts Jr..",
+    "keyword": false,
+    "pid": 828809,
+    "player": "Kevin Roberts Jr.",
+    "type": "Signed"
+   },
+   {
+    "code": "SGN",
+    "date": "2026-07-25",
+    "desc": "Baltimore Orioles signed RHP Garrison Sumner.",
+    "keyword": false,
+    "pid": 809828,
+    "player": "Garrison Sumner",
+    "type": "Signed"
+   },
+   {
+    "code": "SGN",
+    "date": "2026-07-25",
+    "desc": "Baltimore Orioles signed SS Will Plunkett.",
+    "keyword": false,
+    "pid": 836672,
+    "player": "Will Plunkett",
+    "type": "Signed"
+   },
+   {
+    "code": "SGN",
+    "date": "2026-07-25",
+    "desc": "Baltimore Orioles signed RHP Braden Smith.",
+    "keyword": false,
+    "pid": 838365,
+    "player": "Braden Smith",
+    "type": "Signed"
+   },
+   {
+    "code": "SGN",
+    "date": "2026-07-25",
+    "desc": "Baltimore Orioles signed RHP Ross Norman.",
+    "keyword": false,
+    "pid": 812727,
+    "player": "Ross Norman",
+    "type": "Signed"
+   },
+   {
+    "code": "SGN",
     "date": "2026-07-24",
     "desc": "Baltimore Orioles signed OF Ty Head.",
     "keyword": false,
@@ -680,15 +419,6 @@
    {
     "code": "CLW",
     "date": "2026-07-23",
-    "desc": "Baltimore Orioles claimed C Yohel Pozo off waivers from St. Louis Cardinals.",
-    "keyword": false,
-    "pid": 650968,
-    "player": "Yohel Pozo",
-    "type": "Claimed Off Waivers"
-   },
-   {
-    "code": "CLW",
-    "date": "2026-07-23",
     "desc": "Toronto Blue Jays claimed RF Rudy Martin Jr. off waivers from Baltimore Orioles.",
     "keyword": false,
     "pid": 657675,
@@ -702,15 +432,6 @@
     "keyword": false,
     "pid": 650968,
     "player": "Yohel Pozo",
-    "type": "Claimed Off Waivers"
-   },
-   {
-    "code": "CLW",
-    "date": "2026-07-23",
-    "desc": "Toronto Blue Jays claimed RF Rudy Martin Jr. off waivers from Baltimore Orioles.",
-    "keyword": false,
-    "pid": 657675,
-    "player": "Rudy Martin Jr.",
     "type": "Claimed Off Waivers"
    },
    {
@@ -730,24 +451,6 @@
     "pid": 835727,
     "player": "Eric Booth Jr.",
     "type": "Signed"
-   },
-   {
-    "code": "TR",
-    "date": "2026-07-18",
-    "desc": "Kansas City Royals traded RF Rudy Martin Jr. to Baltimore Orioles for cash.",
-    "keyword": false,
-    "pid": 657675,
-    "player": "Rudy Martin Jr.",
-    "type": "Trade"
-   },
-   {
-    "code": "TR",
-    "date": "2026-07-18",
-    "desc": "Kansas City Royals traded RF Rudy Martin Jr. to Baltimore Orioles for cash.",
-    "keyword": false,
-    "pid": null,
-    "player": null,
-    "type": "Trade"
    },
    {
     "code": "TR",
@@ -814,42 +517,6 @@
    },
    {
     "code": "TR",
-    "date": "2026-07-13",
-    "desc": "Pittsburgh Pirates traded RHP Cam Sanders to Baltimore Orioles for cash.",
-    "keyword": false,
-    "pid": 676742,
-    "player": "Cam Sanders",
-    "type": "Trade"
-   },
-   {
-    "code": "TR",
-    "date": "2026-07-13",
-    "desc": "Pittsburgh Pirates traded RHP Cam Sanders to Baltimore Orioles for cash.",
-    "keyword": false,
-    "pid": null,
-    "player": null,
-    "type": "Trade"
-   },
-   {
-    "code": "TR",
-    "date": "2026-07-01",
-    "desc": "Baltimore Orioles traded RHP Kyle Nicolas to Washington Nationals for SS Randal Diaz.",
-    "keyword": false,
-    "pid": 695538,
-    "player": "Randal Diaz",
-    "type": "Trade"
-   },
-   {
-    "code": "TR",
-    "date": "2026-07-01",
-    "desc": "Baltimore Orioles traded RHP Kyle Nicolas to Washington Nationals for SS Randal Diaz.",
-    "keyword": false,
-    "pid": 693312,
-    "player": "Kyle Nicolas",
-    "type": "Trade"
-   },
-   {
-    "code": "TR",
     "date": "2026-07-01",
     "desc": "Baltimore Orioles traded RHP Kyle Nicolas to Washington Nationals for SS Randal Diaz.",
     "keyword": false,
@@ -877,24 +544,6 @@
    },
    {
     "code": "CLW",
-    "date": "2026-06-28",
-    "desc": "Baltimore Orioles claimed RHP Yosver Zulueta off waivers from Chicago Cubs.",
-    "keyword": false,
-    "pid": 691172,
-    "player": "Yosver Zulueta",
-    "type": "Claimed Off Waivers"
-   },
-   {
-    "code": "CLW",
-    "date": "2026-06-27",
-    "desc": "Baltimore Orioles claimed C Dom Keegan off waivers from Tampa Bay Rays.",
-    "keyword": false,
-    "pid": 681371,
-    "player": "Dom Keegan",
-    "type": "Claimed Off Waivers"
-   },
-   {
-    "code": "CLW",
     "date": "2026-06-27",
     "desc": "Baltimore Orioles claimed C Dom Keegan off waivers from Tampa Bay Rays.",
     "keyword": false,
@@ -912,24 +561,6 @@
     "type": "Claimed Off Waivers"
    },
    {
-    "code": "CLW",
-    "date": "2026-06-08",
-    "desc": "Chicago Cubs claimed RHP Eduarniel N\u00fa\u00f1ez off waivers from Baltimore Orioles.",
-    "keyword": false,
-    "pid": 674384,
-    "player": "Eduarniel N\u00fa\u00f1ez",
-    "type": "Claimed Off Waivers"
-   },
-   {
-    "code": "TR",
-    "date": "2026-06-04",
-    "desc": "Cincinnati Reds traded RHP Kyle Nicolas to Baltimore Orioles for cash.",
-    "keyword": false,
-    "pid": null,
-    "player": null,
-    "type": "Trade"
-   },
-   {
     "code": "TR",
     "date": "2026-06-04",
     "desc": "Cincinnati Reds traded RHP Kyle Nicolas to Baltimore Orioles for cash.",
@@ -945,15 +576,6 @@
     "keyword": false,
     "pid": null,
     "player": null,
-    "type": "Trade"
-   },
-   {
-    "code": "TR",
-    "date": "2026-06-04",
-    "desc": "Cincinnati Reds traded RHP Kyle Nicolas to Baltimore Orioles for cash.",
-    "keyword": false,
-    "pid": 693312,
-    "player": "Kyle Nicolas",
     "type": "Trade"
    },
    {
@@ -985,24 +607,6 @@
    },
    {
     "code": "CLW",
-    "date": "2026-05-21",
-    "desc": "Atlanta Braves claimed C Maverick Handley off waivers from Baltimore Orioles.",
-    "keyword": false,
-    "pid": 668974,
-    "player": "Maverick Handley",
-    "type": "Claimed Off Waivers"
-   },
-   {
-    "code": "CLW",
-    "date": "2026-05-18",
-    "desc": "Baltimore Orioles claimed CF Michael Siani off waivers from Los Angeles Dodgers.",
-    "keyword": false,
-    "pid": 672279,
-    "player": "Michael Siani",
-    "type": "Claimed Off Waivers"
-   },
-   {
-    "code": "CLW",
     "date": "2026-05-18",
     "desc": "Baltimore Orioles claimed CF Michael Siani off waivers from Los Angeles Dodgers.",
     "keyword": false,
@@ -1018,33 +622,6 @@
     "pid": 685005,
     "player": "Christian Roa",
     "type": "Claimed Off Waivers"
-   },
-   {
-    "code": "CLW",
-    "date": "2026-05-17",
-    "desc": "Chicago Cubs claimed RHP Christian Roa off waivers from Baltimore Orioles.",
-    "keyword": false,
-    "pid": 685005,
-    "player": "Christian Roa",
-    "type": "Claimed Off Waivers"
-   },
-   {
-    "code": "TR",
-    "date": "2026-05-15",
-    "desc": "Athletics traded RHP Eduarniel N\u00fa\u00f1ez to Baltimore Orioles for cash.",
-    "keyword": false,
-    "pid": 674384,
-    "player": "Eduarniel N\u00fa\u00f1ez",
-    "type": "Trade"
-   },
-   {
-    "code": "TR",
-    "date": "2026-05-15",
-    "desc": "Athletics traded RHP Eduarniel N\u00fa\u00f1ez to Baltimore Orioles for cash.",
-    "keyword": false,
-    "pid": null,
-    "player": null,
-    "type": "Trade"
    },
    {
     "code": "TR",
@@ -1083,15 +660,6 @@
     "type": "Claimed Off Waivers"
    },
    {
-    "code": "CLW",
-    "date": "2026-05-10",
-    "desc": "Baltimore Orioles claimed RHP Christian Roa off waivers from Minnesota Twins.",
-    "keyword": false,
-    "pid": 685005,
-    "player": "Christian Roa",
-    "type": "Claimed Off Waivers"
-   },
-   {
     "code": "TR",
     "date": "2026-05-08",
     "desc": "Philadelphia Phillies traded RHP Enyel Garcia and RHP Maicol Lauriano to Baltimore Orioles for cash.",
@@ -1116,33 +684,6 @@
     "keyword": false,
     "pid": null,
     "player": null,
-    "type": "Trade"
-   },
-   {
-    "code": "TR",
-    "date": "2026-05-08",
-    "desc": "Philadelphia Phillies traded RHP Enyel Garcia and RHP Maicol Lauriano to Baltimore Orioles for cash.",
-    "keyword": false,
-    "pid": null,
-    "player": null,
-    "type": "Trade"
-   },
-   {
-    "code": "TR",
-    "date": "2026-05-08",
-    "desc": "Philadelphia Phillies traded RHP Enyel Garcia and RHP Maicol Lauriano to Baltimore Orioles for cash.",
-    "keyword": false,
-    "pid": 835078,
-    "player": "Enyel Garcia",
-    "type": "Trade"
-   },
-   {
-    "code": "TR",
-    "date": "2026-05-08",
-    "desc": "Philadelphia Phillies traded RHP Enyel Garcia and RHP Maicol Lauriano to Baltimore Orioles for cash.",
-    "keyword": false,
-    "pid": 830418,
-    "player": "Maicol Lauriano",
     "type": "Trade"
    },
    {
@@ -1192,42 +733,6 @@
    },
    {
     "code": "TR",
-    "date": "2026-04-16",
-    "desc": "Los Angeles Dodgers traded RHP Axel Perez to Baltimore Orioles for RHP Chayce McDermott.",
-    "keyword": false,
-    "pid": 821612,
-    "player": "Axel Perez",
-    "type": "Trade"
-   },
-   {
-    "code": "TR",
-    "date": "2026-04-16",
-    "desc": "Los Angeles Dodgers traded RHP Axel Perez to Baltimore Orioles for RHP Chayce McDermott.",
-    "keyword": false,
-    "pid": 694646,
-    "player": "Chayce McDermott",
-    "type": "Trade"
-   },
-   {
-    "code": "TR",
-    "date": "2026-04-13",
-    "desc": "Cincinnati Reds traded 1B Christian Encarnacion-Strand to Baltimore Orioles for cash.",
-    "keyword": false,
-    "pid": 687952,
-    "player": "Christian Encarnacion-Strand",
-    "type": "Trade"
-   },
-   {
-    "code": "TR",
-    "date": "2026-04-13",
-    "desc": "Cincinnati Reds traded 1B Christian Encarnacion-Strand to Baltimore Orioles for cash.",
-    "keyword": false,
-    "pid": null,
-    "player": null,
-    "type": "Trade"
-   },
-   {
-    "code": "TR",
     "date": "2026-04-13",
     "desc": "Cincinnati Reds traded 1B Christian Encarnacion-Strand to Baltimore Orioles for cash.",
     "keyword": false,
@@ -1264,42 +769,6 @@
    },
    {
     "code": "TR",
-    "date": "2026-04-07",
-    "desc": "St. Louis Cardinals traded LHP Nick Raquet to Baltimore Orioles for 2B Brayden Smith.",
-    "keyword": false,
-    "pid": 829670,
-    "player": "Brayden Smith",
-    "type": "Trade"
-   },
-   {
-    "code": "TR",
-    "date": "2026-04-07",
-    "desc": "St. Louis Cardinals traded LHP Nick Raquet to Baltimore Orioles for 2B Brayden Smith.",
-    "keyword": false,
-    "pid": 675919,
-    "player": "Nick Raquet",
-    "type": "Trade"
-   },
-   {
-    "code": "TR",
-    "date": "2026-03-29",
-    "desc": "Los Angeles Angels traded LHP Jayvien Sandridge to Baltimore Orioles for cash.",
-    "keyword": false,
-    "pid": null,
-    "player": null,
-    "type": "Trade"
-   },
-   {
-    "code": "TR",
-    "date": "2026-03-29",
-    "desc": "Los Angeles Angels traded LHP Jayvien Sandridge to Baltimore Orioles for cash.",
-    "keyword": false,
-    "pid": 682144,
-    "player": "Jayvien Sandridge",
-    "type": "Trade"
-   },
-   {
-    "code": "TR",
     "date": "2026-03-29",
     "desc": "Los Angeles Angels traded LHP Jayvien Sandridge to Baltimore Orioles for cash.",
     "keyword": false,
@@ -1321,15 +790,6 @@
     "date": "2026-03-29",
     "desc": "Cleveland Guardians traded RF Johnathan Rodr\u00edguez to Baltimore Orioles for RHP Carter Rustad.",
     "keyword": false,
-    "pid": 671286,
-    "player": "Johnathan Rodr\u00edguez",
-    "type": "Trade"
-   },
-   {
-    "code": "TR",
-    "date": "2026-03-29",
-    "desc": "Cleveland Guardians traded RF Johnathan Rodr\u00edguez to Baltimore Orioles for RHP Carter Rustad.",
-    "keyword": false,
     "pid": 686811,
     "player": "Carter Rustad",
     "type": "Trade"
@@ -1341,15 +801,6 @@
     "keyword": false,
     "pid": 671286,
     "player": "Johnathan Rodr\u00edguez",
-    "type": "Trade"
-   },
-   {
-    "code": "TR",
-    "date": "2026-03-29",
-    "desc": "Cleveland Guardians traded RF Johnathan Rodr\u00edguez to Baltimore Orioles for RHP Carter Rustad.",
-    "keyword": false,
-    "pid": 686811,
-    "player": "Carter Rustad",
     "type": "Trade"
    },
    {
@@ -1389,24 +840,6 @@
     "type": "Claimed Off Waivers"
    },
    {
-    "code": "CLW",
-    "date": "2026-02-20",
-    "desc": "Baltimore Orioles claimed 3B Bryan Ramos off waivers from St. Louis Cardinals.",
-    "keyword": false,
-    "pid": 682868,
-    "player": "Bryan Ramos",
-    "type": "Claimed Off Waivers"
-   },
-   {
-    "code": "TR",
-    "date": "2026-02-14",
-    "desc": "Minnesota Twins traded RHP Jackson Kowar to Baltimore Orioles for cash.",
-    "keyword": false,
-    "pid": 663804,
-    "player": "Jackson Kowar",
-    "type": "Trade"
-   },
-   {
     "code": "TR",
     "date": "2026-02-14",
     "desc": "Minnesota Twins traded RHP Jackson Kowar to Baltimore Orioles for cash.",
@@ -1422,15 +855,6 @@
     "keyword": false,
     "pid": 663804,
     "player": "Jackson Kowar",
-    "type": "Trade"
-   },
-   {
-    "code": "TR",
-    "date": "2026-02-14",
-    "desc": "Minnesota Twins traded RHP Jackson Kowar to Baltimore Orioles for cash.",
-    "keyword": false,
-    "pid": null,
-    "player": null,
     "type": "Trade"
    },
    {
@@ -1452,33 +876,6 @@
     "type": "Claimed Off Waivers"
    },
    {
-    "code": "CLW",
-    "date": "2026-02-06",
-    "desc": "St. Louis Cardinals claimed 3B Bryan Ramos off waivers from Baltimore Orioles.",
-    "keyword": false,
-    "pid": 682868,
-    "player": "Bryan Ramos",
-    "type": "Claimed Off Waivers"
-   },
-   {
-    "code": "TR",
-    "date": "2026-02-05",
-    "desc": "Arizona Diamondbacks traded SS Blaze Alexander to Baltimore Orioles for RHP Kade Strowd, RHP Wellington Aracena and 2B Jos\u00e9 Mej\u00eda.",
-    "keyword": false,
-    "pid": 669704,
-    "player": "Kade Strowd",
-    "type": "Trade"
-   },
-   {
-    "code": "TR",
-    "date": "2026-02-05",
-    "desc": "Arizona Diamondbacks traded SS Blaze Alexander to Baltimore Orioles for RHP Kade Strowd, RHP Wellington Aracena and 2B Jos\u00e9 Mej\u00eda.",
-    "keyword": false,
-    "pid": 808090,
-    "player": "Jos\u00e9 Mej\u00eda",
-    "type": "Trade"
-   },
-   {
     "code": "TR",
     "date": "2026-02-05",
     "desc": "Arizona Diamondbacks traded SS Blaze Alexander to Baltimore Orioles for RHP Kade Strowd, RHP Wellington Aracena and 2B Jos\u00e9 Mej\u00eda.",
@@ -1510,24 +907,6 @@
     "date": "2026-02-05",
     "desc": "Arizona Diamondbacks traded SS Blaze Alexander to Baltimore Orioles for RHP Kade Strowd, RHP Wellington Aracena and 2B Jos\u00e9 Mej\u00eda.",
     "keyword": false,
-    "pid": 677942,
-    "player": "Blaze Alexander",
-    "type": "Trade"
-   },
-   {
-    "code": "TR",
-    "date": "2026-02-05",
-    "desc": "Arizona Diamondbacks traded SS Blaze Alexander to Baltimore Orioles for RHP Kade Strowd, RHP Wellington Aracena and 2B Jos\u00e9 Mej\u00eda.",
-    "keyword": false,
-    "pid": 800286,
-    "player": "Wellington Aracena",
-    "type": "Trade"
-   },
-   {
-    "code": "TR",
-    "date": "2026-02-05",
-    "desc": "Arizona Diamondbacks traded SS Blaze Alexander to Baltimore Orioles for RHP Kade Strowd, RHP Wellington Aracena and 2B Jos\u00e9 Mej\u00eda.",
-    "keyword": false,
     "pid": 808090,
     "player": "Jos\u00e9 Mej\u00eda",
     "type": "Trade"
@@ -1537,24 +916,6 @@
     "date": "2026-02-01",
     "desc": "Chicago White Sox traded 3B Bryan Ramos to Baltimore Orioles for cash.",
     "keyword": false,
-    "pid": 682868,
-    "player": "Bryan Ramos",
-    "type": "Trade"
-   },
-   {
-    "code": "TR",
-    "date": "2026-02-01",
-    "desc": "Chicago White Sox traded 3B Bryan Ramos to Baltimore Orioles for cash.",
-    "keyword": false,
-    "pid": null,
-    "player": null,
-    "type": "Trade"
-   },
-   {
-    "code": "TR",
-    "date": "2026-02-01",
-    "desc": "Chicago White Sox traded 3B Bryan Ramos to Baltimore Orioles for cash.",
-    "keyword": false,
     "pid": null,
     "player": null,
     "type": "Trade"
@@ -1567,15 +928,6 @@
     "pid": 682868,
     "player": "Bryan Ramos",
     "type": "Trade"
-   },
-   {
-    "code": "CLW",
-    "date": "2026-01-26",
-    "desc": "Atlanta Braves claimed LHP Jos\u00e9 Suarez off waivers from Baltimore Orioles.",
-    "keyword": false,
-    "pid": 660761,
-    "player": "Jos\u00e9 Suarez",
-    "type": "Claimed Off Waivers"
    },
    {
     "code": "CLW",
@@ -1606,33 +958,6 @@
    },
    {
     "code": "CLW",
-    "date": "2026-01-22",
-    "desc": "Baltimore Orioles claimed LF Weston Wilson off waivers from Philadelphia Phillies.",
-    "keyword": false,
-    "pid": 642215,
-    "player": "Weston Wilson",
-    "type": "Claimed Off Waivers"
-   },
-   {
-    "code": "CLW",
-    "date": "2026-01-22",
-    "desc": "New York Yankees claimed OF Marco Luciano off waivers from Baltimore Orioles.",
-    "keyword": false,
-    "pid": 682617,
-    "player": "Marco Luciano",
-    "type": "Claimed Off Waivers"
-   },
-   {
-    "code": "CLW",
-    "date": "2026-01-15",
-    "desc": "Baltimore Orioles claimed LHP Jos\u00e9 Suarez off waivers from Atlanta Braves.",
-    "keyword": false,
-    "pid": 660761,
-    "player": "Jos\u00e9 Suarez",
-    "type": "Claimed Off Waivers"
-   },
-   {
-    "code": "CLW",
     "date": "2026-01-15",
     "desc": "Baltimore Orioles claimed LHP Jos\u00e9 Suarez off waivers from Atlanta Braves.",
     "keyword": false,
@@ -1651,38 +976,11 @@
    },
    {
     "code": "CLW",
-    "date": "2026-01-09",
-    "desc": "Atlanta Braves claimed RHP George Soriano off waivers from Baltimore Orioles.",
-    "keyword": false,
-    "pid": 666277,
-    "player": "George Soriano",
-    "type": "Claimed Off Waivers"
-   },
-   {
-    "code": "CLW",
     "date": "2026-01-07",
     "desc": "Baltimore Orioles claimed OF Marco Luciano off waivers from Pittsburgh Pirates.",
     "keyword": false,
     "pid": 682617,
     "player": "Marco Luciano",
-    "type": "Claimed Off Waivers"
-   },
-   {
-    "code": "CLW",
-    "date": "2026-01-07",
-    "desc": "Baltimore Orioles claimed OF Marco Luciano off waivers from Pittsburgh Pirates.",
-    "keyword": false,
-    "pid": 682617,
-    "player": "Marco Luciano",
-    "type": "Claimed Off Waivers"
-   },
-   {
-    "code": "CLW",
-    "date": "2026-01-05",
-    "desc": "Baltimore Orioles claimed RF Jhonkensy Noel off waivers from Cleveland Guardians.",
-    "keyword": false,
-    "pid": 678877,
-    "player": "Jhonkensy Noel",
     "type": "Claimed Off Waivers"
    },
    {
@@ -1708,33 +1006,6 @@
     "date": "2025-12-19",
     "desc": "Tampa Bay Rays traded RHP Shane Baz to Baltimore Orioles for C Caden Bodine, OF Slater de Brun, RHP Michael Forret, OF Austin Overn and Draft Pick. 2026 Competitive Balance Round A pick (No. 33).",
     "keyword": false,
-    "pid": 669358,
-    "player": "Shane Baz",
-    "type": "Trade"
-   },
-   {
-    "code": "TR",
-    "date": "2025-12-19",
-    "desc": "Tampa Bay Rays traded RHP Shane Baz to Baltimore Orioles for C Caden Bodine, OF Slater de Brun, RHP Michael Forret, OF Austin Overn and Draft Pick. 2026 Competitive Balance Round A pick (No. 33).",
-    "keyword": false,
-    "pid": 805207,
-    "player": "Caden Bodine",
-    "type": "Trade"
-   },
-   {
-    "code": "TR",
-    "date": "2025-12-19",
-    "desc": "Tampa Bay Rays traded RHP Shane Baz to Baltimore Orioles for C Caden Bodine, OF Slater de Brun, RHP Michael Forret, OF Austin Overn and Draft Pick. 2026 Competitive Balance Round A pick (No. 33).",
-    "keyword": false,
-    "pid": null,
-    "player": null,
-    "type": "Trade"
-   },
-   {
-    "code": "TR",
-    "date": "2025-12-19",
-    "desc": "Tampa Bay Rays traded RHP Shane Baz to Baltimore Orioles for C Caden Bodine, OF Slater de Brun, RHP Michael Forret, OF Austin Overn and Draft Pick. 2026 Competitive Balance Round A pick (No. 33).",
-    "keyword": false,
     "pid": 702650,
     "player": "Michael Forret",
     "type": "Trade"
@@ -1771,54 +1042,18 @@
     "date": "2025-12-19",
     "desc": "Tampa Bay Rays traded RHP Shane Baz to Baltimore Orioles for C Caden Bodine, OF Slater de Brun, RHP Michael Forret, OF Austin Overn and Draft Pick. 2026 Competitive Balance Round A pick (No. 33).",
     "keyword": false,
-    "pid": null,
-    "player": null,
-    "type": "Trade"
-   },
-   {
-    "code": "TR",
-    "date": "2025-12-19",
-    "desc": "Tampa Bay Rays traded RHP Shane Baz to Baltimore Orioles for C Caden Bodine, OF Slater de Brun, RHP Michael Forret, OF Austin Overn and Draft Pick. 2026 Competitive Balance Round A pick (No. 33).",
-    "keyword": false,
-    "pid": 702650,
-    "player": "Michael Forret",
-    "type": "Trade"
-   },
-   {
-    "code": "TR",
-    "date": "2025-12-19",
-    "desc": "Tampa Bay Rays traded RHP Shane Baz to Baltimore Orioles for C Caden Bodine, OF Slater de Brun, RHP Michael Forret, OF Austin Overn and Draft Pick. 2026 Competitive Balance Round A pick (No. 33).",
-    "keyword": false,
-    "pid": 828173,
-    "player": "Slater de Brun",
-    "type": "Trade"
-   },
-   {
-    "code": "TR",
-    "date": "2025-12-19",
-    "desc": "Tampa Bay Rays traded RHP Shane Baz to Baltimore Orioles for C Caden Bodine, OF Slater de Brun, RHP Michael Forret, OF Austin Overn and Draft Pick. 2026 Competitive Balance Round A pick (No. 33).",
-    "keyword": false,
-    "pid": 702556,
-    "player": "Austin Overn",
-    "type": "Trade"
-   },
-   {
-    "code": "TR",
-    "date": "2025-12-19",
-    "desc": "Tampa Bay Rays traded RHP Shane Baz to Baltimore Orioles for C Caden Bodine, OF Slater de Brun, RHP Michael Forret, OF Austin Overn and Draft Pick. 2026 Competitive Balance Round A pick (No. 33).",
-    "keyword": false,
     "pid": 805207,
     "player": "Caden Bodine",
     "type": "Trade"
    },
    {
-    "code": "CLW",
-    "date": "2025-12-17",
-    "desc": "New York Mets claimed C Drew Romo off waivers from Baltimore Orioles.",
+    "code": "TR",
+    "date": "2025-12-19",
+    "desc": "Tampa Bay Rays traded RHP Shane Baz to Baltimore Orioles for C Caden Bodine, OF Slater de Brun, RHP Michael Forret, OF Austin Overn and Draft Pick. 2026 Competitive Balance Round A pick (No. 33).",
     "keyword": false,
-    "pid": 691011,
-    "player": "Drew Romo",
-    "type": "Claimed Off Waivers"
+    "pid": null,
+    "player": null,
+    "type": "Trade"
    },
    {
     "code": "CLW",
@@ -1845,33 +1080,6 @@
     "keyword": false,
     "pid": 677020,
     "player": "Josh Walker",
-    "type": "Claimed Off Waivers"
-   },
-   {
-    "code": "CLW",
-    "date": "2025-12-10",
-    "desc": "Baltimore Orioles claimed LHP Josh Walker off waivers from Atlanta Braves.",
-    "keyword": false,
-    "pid": 677020,
-    "player": "Josh Walker",
-    "type": "Claimed Off Waivers"
-   },
-   {
-    "code": "CLW",
-    "date": "2025-12-05",
-    "desc": "Baltimore Orioles claimed LF Will Robertson off waivers from Pittsburgh Pirates.",
-    "keyword": false,
-    "pid": 683770,
-    "player": "Will Robertson",
-    "type": "Claimed Off Waivers"
-   },
-   {
-    "code": "CLW",
-    "date": "2025-12-05",
-    "desc": "Baltimore Orioles claimed C Drew Romo off waivers from Colorado Rockies.",
-    "keyword": false,
-    "pid": 691011,
-    "player": "Drew Romo",
     "type": "Claimed Off Waivers"
    },
    {
@@ -1911,33 +1119,6 @@
     "type": "Declared Free Agency"
    },
    {
-    "code": "CLW",
-    "date": "2025-11-21",
-    "desc": "Philadelphia Phillies claimed RF Pedro Le\u00f3n off waivers from Baltimore Orioles.",
-    "keyword": false,
-    "pid": 694175,
-    "player": "Pedro Le\u00f3n",
-    "type": "Claimed Off Waivers"
-   },
-   {
-    "code": "TR",
-    "date": "2025-11-21",
-    "desc": "Minnesota Twins traded 2B Payton Eeles to Baltimore Orioles for C Alex Jackson.",
-    "keyword": false,
-    "pid": 656577,
-    "player": "Alex Jackson",
-    "type": "Trade"
-   },
-   {
-    "code": "TR",
-    "date": "2025-11-21",
-    "desc": "Minnesota Twins traded 2B Payton Eeles to Baltimore Orioles for C Alex Jackson.",
-    "keyword": false,
-    "pid": 823356,
-    "player": "Payton Eeles",
-    "type": "Trade"
-   },
-   {
     "code": "TR",
     "date": "2025-11-21",
     "desc": "Minnesota Twins traded 2B Payton Eeles to Baltimore Orioles for C Alex Jackson.",
@@ -1969,15 +1150,6 @@
     "date": "2025-11-19",
     "desc": "Los Angeles Angels traded LF Taylor Ward to Baltimore Orioles for RHP Grayson Rodriguez.",
     "keyword": false,
-    "pid": 621493,
-    "player": "Taylor Ward",
-    "type": "Trade"
-   },
-   {
-    "code": "TR",
-    "date": "2025-11-19",
-    "desc": "Los Angeles Angels traded LF Taylor Ward to Baltimore Orioles for RHP Grayson Rodriguez.",
-    "keyword": false,
     "pid": 680570,
     "player": "Grayson Rodriguez",
     "type": "Trade"
@@ -1990,33 +1162,6 @@
     "pid": 621493,
     "player": "Taylor Ward",
     "type": "Trade"
-   },
-   {
-    "code": "TR",
-    "date": "2025-11-19",
-    "desc": "Los Angeles Angels traded LF Taylor Ward to Baltimore Orioles for RHP Grayson Rodriguez.",
-    "keyword": false,
-    "pid": 680570,
-    "player": "Grayson Rodriguez",
-    "type": "Trade"
-   },
-   {
-    "code": "CLW",
-    "date": "2025-11-13",
-    "desc": "Atlanta Braves claimed LHP Josh Walker off waivers from Baltimore Orioles.",
-    "keyword": false,
-    "pid": 677020,
-    "player": "Josh Walker",
-    "type": "Claimed Off Waivers"
-   },
-   {
-    "code": "CLW",
-    "date": "2025-11-13",
-    "desc": "Atlanta Braves claimed RHP Carson Ragsdale off waivers from Baltimore Orioles.",
-    "keyword": false,
-    "pid": 685068,
-    "player": "Carson Ragsdale",
-    "type": "Claimed Off Waivers"
    },
    {
     "code": "CLW",
@@ -2035,24 +1180,6 @@
     "pid": 677020,
     "player": "Josh Walker",
     "type": "Claimed Off Waivers"
-   },
-   {
-    "code": "DFA",
-    "date": "2025-11-06",
-    "desc": "LF Dylan Carlson elected free agency.",
-    "keyword": false,
-    "pid": 666185,
-    "player": "Dylan Carlson",
-    "type": "Declared Free Agency"
-   },
-   {
-    "code": "DFA",
-    "date": "2025-11-06",
-    "desc": "SS Jorge Mateo elected free agency.",
-    "keyword": false,
-    "pid": 622761,
-    "player": "Jorge Mateo",
-    "type": "Declared Free Agency"
    },
    {
     "code": "SFA",
@@ -2064,6 +1191,24 @@
     "type": "Signed as Free Agent"
    },
    {
+    "code": "DFA",
+    "date": "2025-11-06",
+    "desc": "SS Jorge Mateo elected free agency.",
+    "keyword": false,
+    "pid": 622761,
+    "player": "Jorge Mateo",
+    "type": "Declared Free Agency"
+   },
+   {
+    "code": "DFA",
+    "date": "2025-11-06",
+    "desc": "LF Dylan Carlson elected free agency.",
+    "keyword": false,
+    "pid": 666185,
+    "player": "Dylan Carlson",
+    "type": "Declared Free Agency"
+   },
+   {
     "code": "CLW",
     "date": "2025-11-06",
     "desc": "New York Mets claimed LHP Jos\u00e9 Castillo off waivers from Baltimore Orioles.",
@@ -2083,57 +1228,12 @@
    },
    {
     "code": "CLW",
-    "date": "2025-11-06",
-    "desc": "Baltimore Orioles claimed RF Pedro Le\u00f3n off waivers from Houston Astros.",
-    "keyword": false,
-    "pid": 694175,
-    "player": "Pedro Le\u00f3n",
-    "type": "Claimed Off Waivers"
-   },
-   {
-    "code": "CLW",
-    "date": "2025-11-06",
-    "desc": "New York Mets claimed LHP Jos\u00e9 Castillo off waivers from Baltimore Orioles.",
-    "keyword": false,
-    "pid": 620454,
-    "player": "Jos\u00e9 Castillo",
-    "type": "Claimed Off Waivers"
-   },
-   {
-    "code": "CLW",
     "date": "2025-11-05",
     "desc": "Baltimore Orioles claimed RHP George Soriano off waivers from Miami Marlins.",
     "keyword": false,
     "pid": 666277,
     "player": "George Soriano",
     "type": "Claimed Off Waivers"
-   },
-   {
-    "code": "CLW",
-    "date": "2025-11-05",
-    "desc": "Baltimore Orioles claimed RHP George Soriano off waivers from Miami Marlins.",
-    "keyword": false,
-    "pid": 666277,
-    "player": "George Soriano",
-    "type": "Claimed Off Waivers"
-   },
-   {
-    "code": "TR",
-    "date": "2025-11-04",
-    "desc": "Chicago Cubs traded RHP Andrew Kittredge to Baltimore Orioles for cash.",
-    "keyword": false,
-    "pid": 552640,
-    "player": "Andrew Kittredge",
-    "type": "Trade"
-   },
-   {
-    "code": "TR",
-    "date": "2025-11-04",
-    "desc": "Chicago Cubs traded RHP Andrew Kittredge to Baltimore Orioles for cash.",
-    "keyword": false,
-    "pid": null,
-    "player": null,
-    "type": "Trade"
    },
    {
     "code": "TR",
@@ -2191,24 +1291,6 @@
    },
    {
     "code": "CLW",
-    "date": "2025-09-27",
-    "desc": "Texas Rangers claimed RHP Dom Hamel off waivers from Baltimore Orioles.",
-    "keyword": false,
-    "pid": 687589,
-    "player": "Dom Hamel",
-    "type": "Claimed Off Waivers"
-   },
-   {
-    "code": "CLW",
-    "date": "2025-09-25",
-    "desc": "Baltimore Orioles claimed RHP Carson Ragsdale off waivers from Atlanta Braves.",
-    "keyword": false,
-    "pid": 685068,
-    "player": "Carson Ragsdale",
-    "type": "Claimed Off Waivers"
-   },
-   {
-    "code": "CLW",
     "date": "2025-09-25",
     "desc": "Baltimore Orioles claimed RHP Carson Ragsdale off waivers from Atlanta Braves.",
     "keyword": false,
@@ -2227,38 +1309,11 @@
    },
    {
     "code": "CLW",
-    "date": "2025-09-20",
-    "desc": "Baltimore Orioles claimed RHP Dom Hamel off waivers from New York Mets.",
-    "keyword": false,
-    "pid": 687589,
-    "player": "Dom Hamel",
-    "type": "Claimed Off Waivers"
-   },
-   {
-    "code": "CLW",
     "date": "2025-09-17",
     "desc": "Atlanta Braves claimed RHP Carson Ragsdale off waivers from Baltimore Orioles.",
     "keyword": false,
     "pid": 685068,
     "player": "Carson Ragsdale",
-    "type": "Claimed Off Waivers"
-   },
-   {
-    "code": "CLW",
-    "date": "2025-09-17",
-    "desc": "Atlanta Braves claimed RHP Carson Ragsdale off waivers from Baltimore Orioles.",
-    "keyword": false,
-    "pid": 685068,
-    "player": "Carson Ragsdale",
-    "type": "Claimed Off Waivers"
-   },
-   {
-    "code": "CLW",
-    "date": "2025-09-15",
-    "desc": "Baltimore Orioles claimed LHP Jos\u00e9 Castillo off waivers from Seattle Mariners.",
-    "keyword": false,
-    "pid": 620454,
-    "player": "Jos\u00e9 Castillo",
     "type": "Claimed Off Waivers"
    },
    {
@@ -2273,5 +1328,5 @@
   ],
   "window_days": 400
  },
- "updated": "2026-10-12T17:39:08-04:00"
+ "updated": "2026-10-12T23:31:37-04:00"
 }
