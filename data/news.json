@@ -2,6 +2,18 @@
  "data": {
   "items": [
    {
+    "date": "2026-10-13T09:51-04:00",
+    "kind": "news",
+    "players": [],
+    "source": "MLB.com",
+    "summary": "",
+    "tags": [
+     "prospect"
+    ],
+    "title": "Three prospects who could be key contributors for O's in '27",
+    "url": "https://www.mlb.com/orioles/news/orioles-prospects-who-could-contribute-in-2027"
+   },
+   {
     "date": "2026-10-12T23:20-04:00",
     "kind": "news",
     "players": [],
@@ -328,18 +340,6 @@
     "url": "http://www.espn.com/mlb/recap?gameId=401923610"
    },
    {
-    "date": "2026-09-23T23:01-04:00",
-    "kind": "news",
-    "players": [
-     "Pete Alonso"
-    ],
-    "source": "MLB.com",
-    "summary": "",
-    "tags": [],
-    "title": "Alonso crushes 41st homer, CES delivers to sweep DH, stave off elimination",
-    "url": "https://www.mlb.com/orioles/news/pete-alonso-hits-41st-home-run-orioles-beat-blue-jays"
-   },
-   {
     "date": "2026-09-23T08:02:33Z",
     "kind": "news",
     "players": [],
@@ -614,5 +614,5 @@
    }
   ]
  },
- "updated": "2026-10-12T23:31:37-04:00"
+ "updated": "2026-10-13T14:14:18-04:00"
 }
