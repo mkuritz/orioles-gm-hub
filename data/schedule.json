@@ -1950,13 +1950,13 @@
     "type": "L"
    },
    {
-    "as": null,
+    "as": 1,
     "away": "Cleveland Guardians",
     "date": "2026-10-13",
     "home": "Tampa Bay Rays",
-    "hs": null,
+    "hs": 3,
     "series": "AL Championship Series",
-    "status": "Scheduled",
+    "status": "Final",
     "type": "L"
    },
    {
@@ -2131,5 +2131,5 @@
    }
   ]
  },
- "updated": "2026-10-13T14:14:12-04:00"
+ "updated": "2026-10-14T11:48:28-04:00"
 }
