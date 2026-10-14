@@ -2,6 +2,30 @@
  "data": {
   "items": [
    {
+    "date": "2026-10-13T21:26-04:00",
+    "kind": "news",
+    "players": [],
+    "source": "MLB.com",
+    "summary": "",
+    "tags": [
+     "prospect"
+    ],
+    "title": "Watch LIVE: Top 100 prospect Irish in Arizona Fall League action",
+    "url": "https://www.mlb.com/orioles/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026"
+   },
+   {
+    "date": "2026-10-13T20:26-04:00",
+    "kind": "news",
+    "players": [],
+    "source": "MLB.com",
+    "summary": "",
+    "tags": [
+     "prospect"
+    ],
+    "title": "These Fall League prospects could earn 40-man roster spots",
+    "url": "https://www.mlb.com/orioles/news/arizona-fall-league-prospects-who-could-be-added-to-40-man-rosters"
+   },
+   {
     "date": "2026-10-13T09:51-04:00",
     "kind": "news",
     "players": [],
@@ -12,18 +36,6 @@
     ],
     "title": "Three prospects who could be key contributors for O's in '27",
     "url": "https://www.mlb.com/orioles/news/orioles-prospects-who-could-contribute-in-2027"
-   },
-   {
-    "date": "2026-10-12T23:20-04:00",
-    "kind": "news",
-    "players": [],
-    "source": "MLB.com",
-    "summary": "",
-    "tags": [
-     "prospect"
-    ],
-    "title": "Watch O's prospects in Arizona Fall League action",
-    "url": "https://www.mlb.com/orioles/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026"
    },
    {
     "date": "2026-10-12T09:34-04:00",
@@ -293,16 +305,6 @@
     "tags": [],
     "title": "Alonso says 'unacceptable' for O's to miss postseason: 'That's not the standard here'",
     "url": "https://www.mlb.com/orioles/news/pete-alonso-orioles-address-elimination-playoff-contention"
-   },
-   {
-    "date": "2026-09-25T09:13-04:00",
-    "kind": "news",
-    "players": [],
-    "source": "MLB.com",
-    "summary": "",
-    "tags": [],
-    "title": "5 things to define the Orioles' last three games of 2026",
-    "url": "https://www.mlb.com/orioles/news/pete-alonso-a-bright-spot-with-41-homer-season"
    },
    {
     "date": "2026-09-24T17:09-04:00",
@@ -614,5 +616,5 @@
    }
   ]
  },
- "updated": "2026-10-13T14:14:18-04:00"
+ "updated": "2026-10-13T21:53:35-04:00"
 }
