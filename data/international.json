@@ -3,39 +3,9 @@
   "mlb_tx": [
    {
     "date": "2026-01-15",
-    "desc": "Baltimore Orioles signed free agent C Luis Dias to a minor league contract.",
-    "id": 837842,
-    "name": "Luis Dias"
-   },
-   {
-    "date": "2026-01-15",
-    "desc": "Baltimore Orioles signed free agent OF Gabriel Rosario to a minor league contract.",
-    "id": 836617,
-    "name": "Gabriel Rosario"
-   },
-   {
-    "date": "2026-01-15",
-    "desc": "Baltimore Orioles signed free agent C Ray Faria to a minor league contract.",
-    "id": 837830,
-    "name": "Ray Faria"
-   },
-   {
-    "date": "2026-01-15",
-    "desc": "Baltimore Orioles signed free agent OF Joshddy Castillo to a minor league contract.",
-    "id": 825450,
-    "name": "Joshddy Castillo"
-   },
-   {
-    "date": "2026-01-15",
-    "desc": "Baltimore Orioles signed free agent SS Jose Luis Acevedo to a minor league contract.",
-    "id": 836593,
-    "name": "Jose Luis Acevedo"
-   },
-   {
-    "date": "2026-01-15",
-    "desc": "Baltimore Orioles signed free agent C Sam Huff to a minor league contract.",
-    "id": 669087,
-    "name": "Sam Huff"
+    "desc": "Baltimore Orioles signed free agent LHP Andri Hidalgo to a minor league contract.",
+    "id": 836602,
+    "name": "Andri Hidalgo"
    },
    {
     "date": "2026-01-15",
@@ -45,9 +15,45 @@
    },
    {
     "date": "2026-01-15",
+    "desc": "Baltimore Orioles signed free agent C Sam Huff to a minor league contract.",
+    "id": 669087,
+    "name": "Sam Huff"
+   },
+   {
+    "date": "2026-01-15",
+    "desc": "Baltimore Orioles signed free agent OF Gabriel Rosario to a minor league contract.",
+    "id": 836617,
+    "name": "Gabriel Rosario"
+   },
+   {
+    "date": "2026-01-15",
+    "desc": "Baltimore Orioles signed free agent OF Joshddy Castillo to a minor league contract.",
+    "id": 825450,
+    "name": "Joshddy Castillo"
+   },
+   {
+    "date": "2026-01-15",
     "desc": "Baltimore Orioles signed free agent OF Carlos Rubecindo to a minor league contract.",
     "id": 837838,
     "name": "Carlos Rubecindo"
+   },
+   {
+    "date": "2026-01-15",
+    "desc": "Baltimore Orioles signed free agent SS Jose Luis Acevedo to a minor league contract.",
+    "id": 836593,
+    "name": "Jose Luis Acevedo"
+   },
+   {
+    "date": "2026-01-15",
+    "desc": "Baltimore Orioles signed free agent C Ray Faria to a minor league contract.",
+    "id": 837830,
+    "name": "Ray Faria"
+   },
+   {
+    "date": "2026-01-15",
+    "desc": "Baltimore Orioles signed free agent OF Ariel Roque to a minor league contract.",
+    "id": 836596,
+    "name": "Ariel Roque"
    },
    {
     "date": "2026-01-15",
@@ -57,15 +63,9 @@
    },
    {
     "date": "2026-01-15",
-    "desc": "Baltimore Orioles signed free agent LHP Andri Hidalgo to a minor league contract.",
-    "id": 836602,
-    "name": "Andri Hidalgo"
-   },
-   {
-    "date": "2026-01-15",
-    "desc": "Baltimore Orioles signed free agent OF Ariel Roque to a minor league contract.",
-    "id": 836596,
-    "name": "Ariel Roque"
+    "desc": "Baltimore Orioles signed free agent C Luis Dias to a minor league contract.",
+    "id": 837842,
+    "name": "Luis Dias"
    },
    {
     "date": "2026-01-20",
@@ -285,11 +285,21 @@
     "age": 17,
     "bonus": null,
     "bonus_text": "not public in a free source",
-    "country": "Venezuela",
+    "country": "Dominican Republic",
     "month": "2026-01-15",
-    "name": "Luis Dias",
+    "name": "Andri Hidalgo",
     "period": 2026,
-    "pos": "C"
+    "pos": "P"
+   },
+   {
+    "age": 18,
+    "bonus": null,
+    "bonus_text": "not public in a free source",
+    "country": "Dominican Republic",
+    "month": "2026-01-15",
+    "name": "Pedro Gomez",
+    "period": 2026,
+    "pos": "OF"
    },
    {
     "age": 18,
@@ -305,39 +315,9 @@
     "age": 17,
     "bonus": null,
     "bonus_text": "not public in a free source",
-    "country": "Venezuela",
-    "month": "2026-01-15",
-    "name": "Ray Faria",
-    "period": 2026,
-    "pos": "C"
-   },
-   {
-    "age": 17,
-    "bonus": null,
-    "bonus_text": "not public in a free source",
     "country": "Dominican Republic",
     "month": "2026-01-15",
     "name": "Joshddy Castillo",
-    "period": 2026,
-    "pos": "OF"
-   },
-   {
-    "age": 17,
-    "bonus": null,
-    "bonus_text": "not public in a free source",
-    "country": "Dominican Republic",
-    "month": "2026-01-15",
-    "name": "Jose Luis Acevedo",
-    "period": 2026,
-    "pos": "SS"
-   },
-   {
-    "age": 18,
-    "bonus": null,
-    "bonus_text": "not public in a free source",
-    "country": "Dominican Republic",
-    "month": "2026-01-15",
-    "name": "Pedro Gomez",
     "period": 2026,
     "pos": "OF"
    },
@@ -357,7 +337,7 @@
     "bonus_text": "not public in a free source",
     "country": "Dominican Republic",
     "month": "2026-01-15",
-    "name": "Jhostin Berroa",
+    "name": "Jose Luis Acevedo",
     "period": 2026,
     "pos": "SS"
    },
@@ -365,11 +345,11 @@
     "age": 17,
     "bonus": null,
     "bonus_text": "not public in a free source",
-    "country": "Dominican Republic",
+    "country": "Venezuela",
     "month": "2026-01-15",
-    "name": "Andri Hidalgo",
+    "name": "Ray Faria",
     "period": 2026,
-    "pos": "P"
+    "pos": "C"
    },
    {
     "age": 17,
@@ -380,6 +360,26 @@
     "name": "Ariel Roque",
     "period": 2026,
     "pos": "OF"
+   },
+   {
+    "age": 17,
+    "bonus": null,
+    "bonus_text": "not public in a free source",
+    "country": "Dominican Republic",
+    "month": "2026-01-15",
+    "name": "Jhostin Berroa",
+    "period": 2026,
+    "pos": "SS"
+   },
+   {
+    "age": 17,
+    "bonus": null,
+    "bonus_text": "not public in a free source",
+    "country": "Venezuela",
+    "month": "2026-01-15",
+    "name": "Luis Dias",
+    "period": 2026,
+    "pos": "C"
    },
    {
     "age": 18,
@@ -565,5 +565,5 @@
   "source": "MLB Stats API transactions (non-US-born players signed to minor league deals since Jan 15)",
   "url": "https://statsapi.mlb.com/api/v1/transactions?teamId=110"
  },
- "updated": "2026-10-14T11:48:43-04:00"
+ "updated": "2026-10-15T11:35:01-04:00"
 }
