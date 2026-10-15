@@ -2,7 +2,7 @@
  "data": {
   "items": [
    {
-    "date": "2026-10-14T00:34-04:00",
+    "date": "2026-10-14T19:48-04:00",
     "kind": "news",
     "players": [],
     "source": "MLB.com",
@@ -10,8 +10,18 @@
     "tags": [
      "prospect"
     ],
-    "title": "Watch O's prospects in Arizona Fall League action",
+    "title": "Watch Orioles prospects in Arizona Fall League action",
     "url": "https://www.mlb.com/orioles/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026"
+   },
+   {
+    "date": "2026-10-14T19:00-04:00",
+    "kind": "news",
+    "players": [],
+    "source": "MLB.com",
+    "summary": "",
+    "tags": [],
+    "title": "Here's one stat from each farm system that caught our eye in 2026",
+    "url": "https://www.mlb.com/orioles/news/best-prospect-stat-from-each-mlb-farm-system-2026"
    },
    {
     "date": "2026-10-13T20:26-04:00",
@@ -305,16 +315,6 @@
     "tags": [],
     "title": "Alonso says 'unacceptable' for O's to miss postseason: 'That's not the standard here'",
     "url": "https://www.mlb.com/orioles/news/pete-alonso-orioles-address-elimination-playoff-contention"
-   },
-   {
-    "date": "2026-09-24T17:09-04:00",
-    "kind": "news",
-    "players": [],
-    "source": "MLB.com",
-    "summary": "",
-    "tags": [],
-    "title": "O's eliminated from playoff contention, but bullish on future",
-    "url": "https://www.mlb.com/orioles/news/orioles-eliminated-playoff-contention-2026-season"
    },
    {
     "date": "2026-09-24T08:14:24Z",
@@ -616,5 +616,5 @@
    }
   ]
  },
- "updated": "2026-10-14T11:48:33-04:00"
+ "updated": "2026-10-14T21:26:52-04:00"
 }

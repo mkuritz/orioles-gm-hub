@@ -14,14 +14,14 @@
   },
   {
    "date": "2026-09-28",
-   "desc": "Baltimore Orioles activated C Samuel Basallo from the 7-day injured list.",
-   "player": "Samuel Basallo",
+   "desc": "Baltimore Orioles activated 3B Blaze Alexander from the 10-day injured list.",
+   "player": "Blaze Alexander",
    "type": "Status Change"
   },
   {
    "date": "2026-09-28",
-   "desc": "Baltimore Orioles activated 3B Blaze Alexander from the 10-day injured list.",
-   "player": "Blaze Alexander",
+   "desc": "Baltimore Orioles activated C Samuel Basallo from the 7-day injured list.",
+   "player": "Samuel Basallo",
    "type": "Status Change"
   },
   {
@@ -38,8 +38,38 @@
   },
   {
    "date": "2026-09-28",
+   "desc": "Baltimore Orioles recalled RHP Yaramil Hiraldo from Norfolk Tides.",
+   "player": "Yaramil Hiraldo",
+   "type": "Recalled"
+  },
+  {
+   "date": "2026-09-28",
+   "desc": "Baltimore Orioles recalled RHP Trey Gibson from FCL Orioles.",
+   "player": "Trey Gibson",
+   "type": "Recalled"
+  },
+  {
+   "date": "2026-09-28",
+   "desc": "Baltimore Orioles recalled LHP Luis De Le\u00f3n from FCL Orioles.",
+   "player": "Luis De Le\u00f3n",
+   "type": "Recalled"
+  },
+  {
+   "date": "2026-09-28",
    "desc": "Baltimore Orioles recalled RHP Codi Heuer from Norfolk Tides.",
    "player": "Codi Heuer",
+   "type": "Recalled"
+  },
+  {
+   "date": "2026-09-28",
+   "desc": "Baltimore Orioles recalled RHP Cameron Foster from Norfolk Tides.",
+   "player": "Cameron Foster",
+   "type": "Recalled"
+  },
+  {
+   "date": "2026-09-28",
+   "desc": "Baltimore Orioles recalled LHP Cade Povich from Norfolk Tides.",
+   "player": "Cade Povich",
    "type": "Recalled"
   },
   {
@@ -52,36 +82,6 @@
    "date": "2026-09-28",
    "desc": "Baltimore Orioles recalled LF Reed Trimble from Norfolk Tides.",
    "player": "Reed Trimble",
-   "type": "Recalled"
-  },
-  {
-   "date": "2026-09-28",
-   "desc": "Baltimore Orioles recalled LHP Cade Povich from Norfolk Tides.",
-   "player": "Cade Povich",
-   "type": "Recalled"
-  },
-  {
-   "date": "2026-09-28",
-   "desc": "Baltimore Orioles recalled RHP Yaramil Hiraldo from Norfolk Tides.",
-   "player": "Yaramil Hiraldo",
-   "type": "Recalled"
-  },
-  {
-   "date": "2026-09-28",
-   "desc": "Baltimore Orioles recalled LHP Luis De Le\u00f3n from FCL Orioles.",
-   "player": "Luis De Le\u00f3n",
-   "type": "Recalled"
-  },
-  {
-   "date": "2026-09-28",
-   "desc": "Baltimore Orioles recalled RHP Cameron Foster from Norfolk Tides.",
-   "player": "Cameron Foster",
-   "type": "Recalled"
-  },
-  {
-   "date": "2026-09-28",
-   "desc": "Baltimore Orioles recalled RHP Trey Gibson from FCL Orioles.",
-   "player": "Trey Gibson",
    "type": "Recalled"
   },
   {
@@ -110,12 +110,6 @@
   },
   {
    "date": "2026-09-23",
-   "desc": "Baltimore Orioles recalled RHP Trey Gibson from Norfolk Tides.",
-   "player": "Trey Gibson",
-   "type": "Recalled"
-  },
-  {
-   "date": "2026-09-23",
    "desc": "Baltimore Orioles optioned LHP Luis De Le\u00f3n to FCL Orioles.",
    "player": "Luis De Le\u00f3n",
    "type": "Optioned"
@@ -127,16 +121,10 @@
    "type": "Recalled"
   },
   {
-   "date": "2026-09-19",
-   "desc": "Baltimore Orioles activated RHP F\u00e9lix Bautista from the 60-day injured list.",
-   "player": "F\u00e9lix Bautista",
-   "type": "Status Change"
-  },
-  {
-   "date": "2026-09-19",
-   "desc": "Baltimore Orioles transferred RF Tyler O'Neill from the 10-day injured list to the 60-day injured list. Right shoulder inflammation.",
-   "player": "Tyler O'Neill",
-   "type": "Status Change"
+   "date": "2026-09-23",
+   "desc": "Baltimore Orioles recalled RHP Trey Gibson from Norfolk Tides.",
+   "player": "Trey Gibson",
+   "type": "Recalled"
   },
   {
    "date": "2026-09-19",
@@ -146,20 +134,32 @@
   },
   {
    "date": "2026-09-19",
+   "desc": "Baltimore Orioles transferred RF Tyler O'Neill from the 10-day injured list to the 60-day injured list. Right shoulder inflammation.",
+   "player": "Tyler O'Neill",
+   "type": "Status Change"
+  },
+  {
+   "date": "2026-09-19",
    "desc": "Baltimore Orioles activated CF Christian Franklin from the 10-day injured list.",
    "player": "Christian Franklin",
    "type": "Status Change"
   },
   {
    "date": "2026-09-19",
-   "desc": "Baltimore Orioles optioned LHP Cade Povich to Norfolk Tides.",
-   "player": "Cade Povich",
-   "type": "Optioned"
+   "desc": "Baltimore Orioles activated RHP F\u00e9lix Bautista from the 60-day injured list.",
+   "player": "F\u00e9lix Bautista",
+   "type": "Status Change"
   },
   {
    "date": "2026-09-19",
    "desc": "Baltimore Orioles optioned LF Heston Kjerstad to Norfolk Tides.",
    "player": "Heston Kjerstad",
+   "type": "Optioned"
+  },
+  {
+   "date": "2026-09-19",
+   "desc": "Baltimore Orioles optioned LHP Cade Povich to Norfolk Tides.",
+   "player": "Cade Povich",
    "type": "Optioned"
   },
   {
@@ -182,18 +182,6 @@
   },
   {
    "date": "2026-09-16",
-   "desc": "RHP Rico Garcia changed number to 50.",
-   "player": "Rico Garcia",
-   "type": "Number Change"
-  },
-  {
-   "date": "2026-09-16",
-   "desc": "Baltimore Orioles placed 2B Jackson Holliday on the 10-day injured list retroactive to September 15, 2026. Left wrist inflammation.",
-   "player": "Jackson Holliday",
-   "type": "Status Change"
-  },
-  {
-   "date": "2026-09-16",
    "desc": "3B Christian Encarnacion-Strand changed number to 32.",
    "player": "Christian Encarnacion-Strand",
    "type": "Number Change"
@@ -206,20 +194,32 @@
   },
   {
    "date": "2026-09-16",
+   "desc": "Baltimore Orioles placed 2B Jackson Holliday on the 10-day injured list retroactive to September 15, 2026. Left wrist inflammation.",
+   "player": "Jackson Holliday",
+   "type": "Status Change"
+  },
+  {
+   "date": "2026-09-16",
+   "desc": "RHP Rico Garcia changed number to 50.",
+   "player": "Rico Garcia",
+   "type": "Number Change"
+  },
+  {
+   "date": "2026-09-16",
    "desc": "Baltimore Orioles selected the contract of SS Jos\u00e9 Barrero from Norfolk Tides.",
    "player": "Jos\u00e9 Barrero",
    "type": "Selected"
   },
   {
    "date": "2026-09-15",
-   "desc": "3B Christian Encarnacion-Strand changed number to 21.",
-   "player": "Christian Encarnacion-Strand",
+   "desc": "RHP Chris Bassitt changed number to 21.",
+   "player": "Chris Bassitt",
    "type": "Number Change"
   },
   {
    "date": "2026-09-15",
-   "desc": "RHP Chris Bassitt changed number to 21.",
-   "player": "Chris Bassitt",
+   "desc": "RHP Rico Garcia changed number to 21.",
+   "player": "Rico Garcia",
    "type": "Number Change"
   },
   {
@@ -230,8 +230,8 @@
   },
   {
    "date": "2026-09-15",
-   "desc": "RHP Rico Garcia changed number to 21.",
-   "player": "Rico Garcia",
+   "desc": "3B Christian Encarnacion-Strand changed number to 21.",
+   "player": "Christian Encarnacion-Strand",
    "type": "Number Change"
   },
   {
@@ -278,15 +278,15 @@
   },
   {
    "date": "2026-09-12",
-   "desc": "Baltimore Orioles sent RHP Ryan Helsley on a rehab assignment to Norfolk Tides.",
-   "player": "Ryan Helsley",
-   "type": "Assigned"
-  },
-  {
-   "date": "2026-09-12",
    "desc": "Baltimore Orioles signed free agent RHP Albert Su\u00e1rez to a minor league contract.",
    "player": "Albert Su\u00e1rez",
    "type": "Signed as Free Agent"
+  },
+  {
+   "date": "2026-09-12",
+   "desc": "Baltimore Orioles sent RHP Ryan Helsley on a rehab assignment to Norfolk Tides.",
+   "player": "Ryan Helsley",
+   "type": "Assigned"
   },
   {
    "date": "2026-09-09",
@@ -308,15 +308,15 @@
   },
   {
    "date": "2026-09-06",
-   "desc": "Baltimore Orioles designated RHP Albert Su\u00e1rez for assignment.",
-   "player": "Albert Su\u00e1rez",
-   "type": "Designated for Assignment"
-  },
-  {
-   "date": "2026-09-06",
    "desc": "Baltimore Orioles placed CF Luis Robert Jr. on the 10-day injured list retroactive to September 5, 2026. Left hamstring discomfort.",
    "player": "Luis Robert Jr.",
    "type": "Status Change"
+  },
+  {
+   "date": "2026-09-06",
+   "desc": "Baltimore Orioles designated RHP Albert Su\u00e1rez for assignment.",
+   "player": "Albert Su\u00e1rez",
+   "type": "Designated for Assignment"
   },
   {
    "date": "2026-09-06",
@@ -350,18 +350,6 @@
   },
   {
    "date": "2026-09-01",
-   "desc": "Baltimore Orioles designated RHP Cameron Weston for assignment.",
-   "player": "Cameron Weston",
-   "type": "Designated for Assignment"
-  },
-  {
-   "date": "2026-09-01",
-   "desc": "Baltimore Orioles activated CF Luis Robert Jr..",
-   "player": "Luis Robert Jr.",
-   "type": "Status Change"
-  },
-  {
-   "date": "2026-09-01",
    "desc": "Baltimore Orioles released LHP Nick Raquet.",
    "player": "Nick Raquet",
    "type": "Released"
@@ -371,6 +359,18 @@
    "desc": "Baltimore Orioles placed CF Christian Franklin on the 10-day injured list retroactive to August 31, 2026. Left hand inflammation.",
    "player": "Christian Franklin",
    "type": "Status Change"
+  },
+  {
+   "date": "2026-09-01",
+   "desc": "Baltimore Orioles activated CF Luis Robert Jr..",
+   "player": "Luis Robert Jr.",
+   "type": "Status Change"
+  },
+  {
+   "date": "2026-09-01",
+   "desc": "Baltimore Orioles designated RHP Cameron Weston for assignment.",
+   "player": "Cameron Weston",
+   "type": "Designated for Assignment"
   },
   {
    "date": "2026-09-01",
@@ -386,9 +386,9 @@
   },
   {
    "date": "2026-09-01",
-   "desc": "Baltimore Orioles recalled LF Heston Kjerstad from Norfolk Tides.",
-   "player": "Heston Kjerstad",
-   "type": "Recalled"
+   "desc": "Baltimore Orioles optioned LHP Cade Povich to Norfolk Tides.",
+   "player": "Cade Povich",
+   "type": "Optioned"
   },
   {
    "date": "2026-09-01",
@@ -398,9 +398,9 @@
   },
   {
    "date": "2026-09-01",
-   "desc": "Baltimore Orioles optioned LHP Cade Povich to Norfolk Tides.",
-   "player": "Cade Povich",
-   "type": "Optioned"
+   "desc": "Baltimore Orioles recalled LF Heston Kjerstad from Norfolk Tides.",
+   "player": "Heston Kjerstad",
+   "type": "Recalled"
   },
   {
    "date": "2026-08-31",
@@ -410,21 +410,15 @@
   },
   {
    "date": "2026-08-31",
-   "desc": "Baltimore Orioles activated LHP Cade Povich.",
-   "player": "Cade Povich",
-   "type": "Status Change"
-  },
-  {
-   "date": "2026-08-31",
    "desc": "CF Luis Robert Jr. roster status changed by Baltimore Orioles.",
    "player": "Luis Robert Jr.",
    "type": "Status Change"
   },
   {
    "date": "2026-08-31",
-   "desc": "Baltimore Orioles recalled LHP Cade Povich from Norfolk Tides.",
+   "desc": "Baltimore Orioles activated LHP Cade Povich.",
    "player": "Cade Povich",
-   "type": "Recalled"
+   "type": "Status Change"
   },
   {
    "date": "2026-08-31",
@@ -437,6 +431,12 @@
    "desc": "Baltimore Orioles optioned RHP Anthony Nunez to Norfolk Tides.",
    "player": "Anthony Nunez",
    "type": "Optioned"
+  },
+  {
+   "date": "2026-08-31",
+   "desc": "Baltimore Orioles recalled LHP Cade Povich from Norfolk Tides.",
+   "player": "Cade Povich",
+   "type": "Recalled"
   },
   {
    "date": "2026-08-28",
@@ -590,6 +590,12 @@
   },
   {
    "date": "2026-08-04",
+   "desc": "C Chadwick Tromp elected free agency.",
+   "player": "Chadwick Tromp",
+   "type": "Declared Free Agency"
+  },
+  {
+   "date": "2026-08-04",
    "desc": "Baltimore Orioles activated C Carlos Narv\u00e1ez.",
    "player": "Carlos Narv\u00e1ez",
    "type": "Status Change"
@@ -599,12 +605,6 @@
    "desc": "Baltimore Orioles activated LF Christian Franklin.",
    "player": "Christian Franklin",
    "type": "Status Change"
-  },
-  {
-   "date": "2026-08-04",
-   "desc": "C Chadwick Tromp elected free agency.",
-   "player": "Chadwick Tromp",
-   "type": "Declared Free Agency"
   },
   {
    "date": "2026-08-04",
@@ -626,86 +626,20 @@
   },
   {
    "date": "2026-08-03",
-   "desc": "Tampa Bay Rays traded RHP Michael Forret to Baltimore Orioles for RHP Tyler Wells.",
-   "player": "Tyler Wells",
-   "type": "Trade"
-  },
-  {
-   "date": "2026-08-03",
-   "desc": "Tampa Bay Rays traded RHP Michael Forret to Baltimore Orioles for RHP Tyler Wells.",
-   "player": "Michael Forret",
-   "type": "Trade"
-  },
-  {
-   "date": "2026-08-03",
-   "desc": "Milwaukee Brewers traded RHP Codi Heuer to Baltimore Orioles for cash.",
-   "player": null,
-   "type": "Trade"
-  },
-  {
-   "date": "2026-08-03",
-   "desc": "Baltimore Orioles traded LF Taylor Ward to Seattle Mariners for RHP Alex Hoppe, RHP Brock Moore and RHP Harrison Kreiling.",
-   "player": "Harrison Kreiling",
-   "type": "Trade"
-  },
-  {
-   "date": "2026-08-03",
-   "desc": "Baltimore Orioles traded LF Taylor Ward to Seattle Mariners for RHP Alex Hoppe, RHP Brock Moore and RHP Harrison Kreiling.",
-   "player": "Taylor Ward",
-   "type": "Trade"
-  },
-  {
-   "date": "2026-08-03",
    "desc": "Baltimore Orioles traded LF Taylor Ward to Seattle Mariners for RHP Alex Hoppe, RHP Brock Moore and RHP Harrison Kreiling.",
    "player": "Alex Hoppe",
    "type": "Trade"
   },
   {
    "date": "2026-08-03",
-   "desc": "Baltimore Orioles traded LF Taylor Ward to Seattle Mariners for RHP Alex Hoppe, RHP Brock Moore and RHP Harrison Kreiling.",
-   "player": "Brock Moore",
-   "type": "Trade"
-  },
-  {
-   "date": "2026-08-03",
-   "desc": "Washington Nationals traded LF Christian Franklin to Baltimore Orioles for RHP Joe Glassey.",
-   "player": "Christian Franklin",
-   "type": "Trade"
-  },
-  {
-   "date": "2026-08-03",
-   "desc": "Washington Nationals traded LF Christian Franklin to Baltimore Orioles for RHP Joe Glassey.",
-   "player": "Joe Glassey",
-   "type": "Trade"
-  },
-  {
-   "date": "2026-08-03",
-   "desc": "Miami Marlins traded RF Rece Hinds to Baltimore Orioles for cash.",
-   "player": null,
+   "desc": "Baltimore Orioles traded C Adley Rutschman, C Jake Rogers and cash to Boston Red Sox for RHP Kyson Witherspoon, CF Enddy Azocar, C Carlos Narv\u00e1ez, RHP Anthony Eyanson and Player To Be Named Later.",
+   "player": "Enddy Azocar",
    "type": "Trade"
   },
   {
    "date": "2026-08-03",
    "desc": "Baltimore Orioles traded C Adley Rutschman, C Jake Rogers and cash to Boston Red Sox for RHP Kyson Witherspoon, CF Enddy Azocar, C Carlos Narv\u00e1ez, RHP Anthony Eyanson and Player To Be Named Later.",
    "player": "Adley Rutschman",
-   "type": "Trade"
-  },
-  {
-   "date": "2026-08-03",
-   "desc": "Baltimore Orioles traded C Adley Rutschman, C Jake Rogers and cash to Boston Red Sox for RHP Kyson Witherspoon, CF Enddy Azocar, C Carlos Narv\u00e1ez, RHP Anthony Eyanson and Player To Be Named Later.",
-   "player": null,
-   "type": "Trade"
-  },
-  {
-   "date": "2026-08-03",
-   "desc": "Baltimore Orioles traded C Adley Rutschman, C Jake Rogers and cash to Boston Red Sox for RHP Kyson Witherspoon, CF Enddy Azocar, C Carlos Narv\u00e1ez, RHP Anthony Eyanson and Player To Be Named Later.",
-   "player": null,
-   "type": "Trade"
-  },
-  {
-   "date": "2026-08-03",
-   "desc": "Baltimore Orioles traded C Adley Rutschman, C Jake Rogers and cash to Boston Red Sox for RHP Kyson Witherspoon, CF Enddy Azocar, C Carlos Narv\u00e1ez, RHP Anthony Eyanson and Player To Be Named Later.",
-   "player": "Enddy Azocar",
    "type": "Trade"
   },
   {
@@ -728,20 +662,86 @@
   },
   {
    "date": "2026-08-03",
-   "desc": "Miami Marlins traded RF Rece Hinds to Baltimore Orioles for cash.",
-   "player": "Rece Hinds",
-   "type": "Trade"
-  },
-  {
-   "date": "2026-08-03",
    "desc": "Baltimore Orioles traded C Adley Rutschman, C Jake Rogers and cash to Boston Red Sox for RHP Kyson Witherspoon, CF Enddy Azocar, C Carlos Narv\u00e1ez, RHP Anthony Eyanson and Player To Be Named Later.",
    "player": "Carlos Narv\u00e1ez",
    "type": "Trade"
   },
   {
    "date": "2026-08-03",
+   "desc": "Baltimore Orioles traded C Adley Rutschman, C Jake Rogers and cash to Boston Red Sox for RHP Kyson Witherspoon, CF Enddy Azocar, C Carlos Narv\u00e1ez, RHP Anthony Eyanson and Player To Be Named Later.",
+   "player": null,
+   "type": "Trade"
+  },
+  {
+   "date": "2026-08-03",
+   "desc": "Baltimore Orioles traded C Adley Rutschman, C Jake Rogers and cash to Boston Red Sox for RHP Kyson Witherspoon, CF Enddy Azocar, C Carlos Narv\u00e1ez, RHP Anthony Eyanson and Player To Be Named Later.",
+   "player": null,
+   "type": "Trade"
+  },
+  {
+   "date": "2026-08-03",
+   "desc": "Miami Marlins traded RF Rece Hinds to Baltimore Orioles for cash.",
+   "player": null,
+   "type": "Trade"
+  },
+  {
+   "date": "2026-08-03",
    "desc": "Milwaukee Brewers traded RHP Codi Heuer to Baltimore Orioles for cash.",
    "player": "Codi Heuer",
+   "type": "Trade"
+  },
+  {
+   "date": "2026-08-03",
+   "desc": "Milwaukee Brewers traded RHP Codi Heuer to Baltimore Orioles for cash.",
+   "player": null,
+   "type": "Trade"
+  },
+  {
+   "date": "2026-08-03",
+   "desc": "Tampa Bay Rays traded RHP Michael Forret to Baltimore Orioles for RHP Tyler Wells.",
+   "player": "Tyler Wells",
+   "type": "Trade"
+  },
+  {
+   "date": "2026-08-03",
+   "desc": "Tampa Bay Rays traded RHP Michael Forret to Baltimore Orioles for RHP Tyler Wells.",
+   "player": "Michael Forret",
+   "type": "Trade"
+  },
+  {
+   "date": "2026-08-03",
+   "desc": "Washington Nationals traded LF Christian Franklin to Baltimore Orioles for RHP Joe Glassey.",
+   "player": "Joe Glassey",
+   "type": "Trade"
+  },
+  {
+   "date": "2026-08-03",
+   "desc": "Washington Nationals traded LF Christian Franklin to Baltimore Orioles for RHP Joe Glassey.",
+   "player": "Christian Franklin",
+   "type": "Trade"
+  },
+  {
+   "date": "2026-08-03",
+   "desc": "Baltimore Orioles traded LF Taylor Ward to Seattle Mariners for RHP Alex Hoppe, RHP Brock Moore and RHP Harrison Kreiling.",
+   "player": "Brock Moore",
+   "type": "Trade"
+  },
+  {
+   "date": "2026-08-03",
+   "desc": "Miami Marlins traded RF Rece Hinds to Baltimore Orioles for cash.",
+   "player": "Rece Hinds",
+   "type": "Trade"
+  },
+  {
+   "date": "2026-08-03",
+   "desc": "Baltimore Orioles traded LF Taylor Ward to Seattle Mariners for RHP Alex Hoppe, RHP Brock Moore and RHP Harrison Kreiling.",
+   "player": "Taylor Ward",
+   "type": "Trade"
+  },
+  {
+   "date": "2026-08-03",
+   "desc": "Baltimore Orioles traded LF Taylor Ward to Seattle Mariners for RHP Alex Hoppe, RHP Brock Moore and RHP Harrison Kreiling.",
+   "player": "Harrison Kreiling",
    "type": "Trade"
   },
   {
@@ -758,18 +758,6 @@
   },
   {
    "date": "2026-08-01",
-   "desc": "Baltimore Orioles recalled RHP Yaramil Hiraldo from Norfolk Tides.",
-   "player": "Yaramil Hiraldo",
-   "type": "Recalled"
-  },
-  {
-   "date": "2026-08-01",
-   "desc": "Baltimore Orioles traded RHP Dean Kremer to Minnesota Twins for OF Jhomnardo Reyes.",
-   "player": "Jhomnardo Reyes",
-   "type": "Trade"
-  },
-  {
-   "date": "2026-08-01",
    "desc": "Baltimore Orioles sent C Sam Huff outright to Norfolk Tides.",
    "player": "Sam Huff",
    "type": "Outrighted"
@@ -779,6 +767,18 @@
    "desc": "Baltimore Orioles traded RHP Dean Kremer to Minnesota Twins for OF Jhomnardo Reyes.",
    "player": "Dean Kremer",
    "type": "Trade"
+  },
+  {
+   "date": "2026-08-01",
+   "desc": "Baltimore Orioles traded RHP Dean Kremer to Minnesota Twins for OF Jhomnardo Reyes.",
+   "player": "Jhomnardo Reyes",
+   "type": "Trade"
+  },
+  {
+   "date": "2026-08-01",
+   "desc": "Baltimore Orioles recalled RHP Yaramil Hiraldo from Norfolk Tides.",
+   "player": "Yaramil Hiraldo",
+   "type": "Recalled"
   },
   {
    "date": "2026-07-31",
@@ -818,8 +818,20 @@
   },
   {
    "date": "2026-07-27",
+   "desc": "Baltimore Orioles designated C Sam Huff for assignment.",
+   "player": "Sam Huff",
+   "type": "Designated for Assignment"
+  },
+  {
+   "date": "2026-07-27",
    "desc": "Baltimore Orioles signed free agent LHP Noah Chapman to a minor league contract.",
    "player": "Noah Chapman",
+   "type": "Signed as Free Agent"
+  },
+  {
+   "date": "2026-07-27",
+   "desc": "Baltimore Orioles signed free agent RHP Camden Wicker to a minor league contract.",
+   "player": "Camden Wicker",
    "type": "Signed as Free Agent"
   },
   {
@@ -836,21 +848,9 @@
   },
   {
    "date": "2026-07-27",
-   "desc": "Baltimore Orioles signed free agent RHP Camden Wicker to a minor league contract.",
-   "player": "Camden Wicker",
-   "type": "Signed as Free Agent"
-  },
-  {
-   "date": "2026-07-27",
-   "desc": "Baltimore Orioles designated C Sam Huff for assignment.",
-   "player": "Sam Huff",
-   "type": "Designated for Assignment"
-  },
-  {
-   "date": "2026-07-27",
-   "desc": "Baltimore Orioles recalled C Yohel Pozo from Chesapeake Baysox.",
-   "player": "Yohel Pozo",
-   "type": "Recalled"
+   "desc": "Baltimore Orioles traded RF Johnathan Rodr\u00edguez to Pittsburgh Pirates for cash.",
+   "player": "Johnathan Rodr\u00edguez",
+   "type": "Trade"
   },
   {
    "date": "2026-07-27",
@@ -860,50 +860,14 @@
   },
   {
    "date": "2026-07-27",
-   "desc": "Baltimore Orioles traded RF Johnathan Rodr\u00edguez to Pittsburgh Pirates for cash.",
-   "player": "Johnathan Rodr\u00edguez",
-   "type": "Trade"
+   "desc": "Baltimore Orioles recalled C Yohel Pozo from Chesapeake Baysox.",
+   "player": "Yohel Pozo",
+   "type": "Recalled"
   },
   {
    "date": "2026-07-25",
-   "desc": "Baltimore Orioles signed RHP Braden Smith.",
-   "player": "Braden Smith",
-   "type": "Signed"
-  },
-  {
-   "date": "2026-07-25",
-   "desc": "Baltimore Orioles signed RHP Diego Gutierrez.",
-   "player": "Diego Gutierrez",
-   "type": "Signed"
-  },
-  {
-   "date": "2026-07-25",
-   "desc": "Baltimore Orioles signed OF Kevin Roberts Jr..",
-   "player": "Kevin Roberts Jr.",
-   "type": "Signed"
-  },
-  {
-   "date": "2026-07-25",
-   "desc": "Baltimore Orioles signed SS Will Plunkett.",
-   "player": "Will Plunkett",
-   "type": "Signed"
-  },
-  {
-   "date": "2026-07-25",
-   "desc": "Baltimore Orioles signed RHP Miguel Hugas.",
-   "player": "Miguel Hugas",
-   "type": "Signed"
-  },
-  {
-   "date": "2026-07-25",
-   "desc": "Baltimore Orioles signed RHP Gunnar Garrison.",
-   "player": "Gunnar Garrison",
-   "type": "Signed"
-  },
-  {
-   "date": "2026-07-25",
-   "desc": "Baltimore Orioles signed RHP Ross Norman.",
-   "player": "Ross Norman",
+   "desc": "Baltimore Orioles signed SS Jimmy Anderson.",
+   "player": "Jimmy Anderson",
    "type": "Signed"
   },
   {
@@ -914,20 +878,56 @@
   },
   {
    "date": "2026-07-25",
-   "desc": "Baltimore Orioles signed C Leo Marrero.",
-   "player": "Leo Marrero",
+   "desc": "Baltimore Orioles signed RHP Diego Gutierrez.",
+   "player": "Diego Gutierrez",
    "type": "Signed"
   },
   {
    "date": "2026-07-25",
-   "desc": "Baltimore Orioles signed SS Jimmy Anderson.",
-   "player": "Jimmy Anderson",
+   "desc": "Baltimore Orioles signed RHP Braden Smith.",
+   "player": "Braden Smith",
    "type": "Signed"
   },
   {
    "date": "2026-07-25",
    "desc": "Baltimore Orioles signed SS Brayden Fry.",
    "player": "Brayden Fry",
+   "type": "Signed"
+  },
+  {
+   "date": "2026-07-25",
+   "desc": "Baltimore Orioles signed OF Kevin Roberts Jr..",
+   "player": "Kevin Roberts Jr.",
+   "type": "Signed"
+  },
+  {
+   "date": "2026-07-25",
+   "desc": "Baltimore Orioles signed C Leo Marrero.",
+   "player": "Leo Marrero",
+   "type": "Signed"
+  },
+  {
+   "date": "2026-07-25",
+   "desc": "Baltimore Orioles signed RHP Gunnar Garrison.",
+   "player": "Gunnar Garrison",
+   "type": "Signed"
+  },
+  {
+   "date": "2026-07-25",
+   "desc": "Baltimore Orioles signed SS Will Plunkett.",
+   "player": "Will Plunkett",
+   "type": "Signed"
+  },
+  {
+   "date": "2026-07-25",
+   "desc": "Baltimore Orioles signed RHP Ross Norman.",
+   "player": "Ross Norman",
+   "type": "Signed"
+  },
+  {
+   "date": "2026-07-25",
+   "desc": "Baltimore Orioles signed RHP Miguel Hugas.",
+   "player": "Miguel Hugas",
    "type": "Signed"
   },
   {
@@ -944,21 +944,33 @@
   },
   {
    "date": "2026-07-23",
-   "desc": "Baltimore Orioles designated RF Johnathan Rodr\u00edguez for assignment.",
-   "player": "Johnathan Rodr\u00edguez",
-   "type": "Designated for Assignment"
-  },
-  {
-   "date": "2026-07-23",
    "desc": "Baltimore Orioles signed RHP Collin McKinney.",
    "player": "Collin McKinney",
    "type": "Signed"
   },
   {
    "date": "2026-07-23",
+   "desc": "Baltimore Orioles designated RF Johnathan Rodr\u00edguez for assignment.",
+   "player": "Johnathan Rodr\u00edguez",
+   "type": "Designated for Assignment"
+  },
+  {
+   "date": "2026-07-23",
+   "desc": "Baltimore Orioles optioned RF Johnathan Rodr\u00edguez to Norfolk Tides.",
+   "player": "Johnathan Rodr\u00edguez",
+   "type": "Optioned"
+  },
+  {
+   "date": "2026-07-23",
    "desc": "Baltimore Orioles optioned C Yohel Pozo to Norfolk Tides.",
    "player": "Yohel Pozo",
    "type": "Optioned"
+  },
+  {
+   "date": "2026-07-23",
+   "desc": "Baltimore Orioles claimed C Yohel Pozo off waivers from St. Louis Cardinals.",
+   "player": "Yohel Pozo",
+   "type": "Claimed Off Waivers"
   },
   {
    "date": "2026-07-23",
@@ -971,18 +983,6 @@
    "desc": "Toronto Blue Jays claimed RF Rudy Martin Jr. off waivers from Baltimore Orioles.",
    "player": "Rudy Martin Jr.",
    "type": "Claimed Off Waivers"
-  },
-  {
-   "date": "2026-07-23",
-   "desc": "Baltimore Orioles claimed C Yohel Pozo off waivers from St. Louis Cardinals.",
-   "player": "Yohel Pozo",
-   "type": "Claimed Off Waivers"
-  },
-  {
-   "date": "2026-07-23",
-   "desc": "Baltimore Orioles optioned RF Johnathan Rodr\u00edguez to Norfolk Tides.",
-   "player": "Johnathan Rodr\u00edguez",
-   "type": "Optioned"
   },
   {
    "date": "2026-07-22",
@@ -1028,26 +1028,26 @@
   },
   {
    "date": "2026-07-19",
-   "desc": "Baltimore Orioles optioned RHP Cam Sanders to Norfolk Tides.",
-   "player": "Cam Sanders",
-   "type": "Optioned"
-  },
-  {
-   "date": "2026-07-19",
    "desc": "Baltimore Orioles selected the contract of C Sam Huff from Norfolk Tides.",
    "player": "Sam Huff",
    "type": "Selected"
   },
   {
-   "date": "2026-07-18",
-   "desc": "Baltimore Orioles signed OF Eric Booth Jr..",
-   "player": "Eric Booth Jr.",
-   "type": "Signed"
+   "date": "2026-07-19",
+   "desc": "Baltimore Orioles optioned RHP Cam Sanders to Norfolk Tides.",
+   "player": "Cam Sanders",
+   "type": "Optioned"
   },
   {
    "date": "2026-07-18",
    "desc": "Baltimore Orioles signed RHP Ryan Piech.",
    "player": "Ryan Piech",
+   "type": "Signed"
+  },
+  {
+   "date": "2026-07-18",
+   "desc": "Baltimore Orioles signed OF Eric Booth Jr..",
+   "player": "Eric Booth Jr.",
    "type": "Signed"
   },
   {
@@ -1064,15 +1064,15 @@
   },
   {
    "date": "2026-07-17",
-   "desc": "Baltimore Orioles transferred RHP Chris Bassitt from the 15-day injured list to the 60-day injured list. Low back discomfort.",
-   "player": "Chris Bassitt",
-   "type": "Status Change"
-  },
-  {
-   "date": "2026-07-17",
    "desc": "Baltimore Orioles signed RHP Dominic Voegele.",
    "player": "Dominic Voegele",
    "type": "Signed"
+  },
+  {
+   "date": "2026-07-17",
+   "desc": "Baltimore Orioles transferred RHP Chris Bassitt from the 15-day injured list to the 60-day injured list. Low back discomfort.",
+   "player": "Chris Bassitt",
+   "type": "Status Change"
   },
   {
    "date": "2026-07-17",
@@ -1082,14 +1082,14 @@
   },
   {
    "date": "2026-07-16",
-   "desc": "Baltimore Orioles signed free agent IF Yorvis Salazar to a minor league contract.",
-   "player": "Yorvis Salazar",
+   "desc": "Baltimore Orioles signed free agent IF Ruben Hernandez to a minor league contract.",
+   "player": "Ruben Hernandez",
    "type": "Signed as Free Agent"
   },
   {
    "date": "2026-07-16",
-   "desc": "Baltimore Orioles signed free agent IF Ruben Hernandez to a minor league contract.",
-   "player": "Ruben Hernandez",
+   "desc": "Baltimore Orioles signed free agent IF Yorvis Salazar to a minor league contract.",
+   "player": "Yorvis Salazar",
    "type": "Signed as Free Agent"
   },
   {
@@ -1118,14 +1118,14 @@
   },
   {
    "date": "2026-07-13",
-   "desc": "Baltimore Orioles optioned LHP Nick Raquet to Norfolk Tides.",
-   "player": "Nick Raquet",
-   "type": "Optioned"
+   "desc": "Pittsburgh Pirates traded RHP Cam Sanders to Baltimore Orioles for cash.",
+   "player": "Cam Sanders",
+   "type": "Trade"
   },
   {
    "date": "2026-07-13",
-   "desc": "Baltimore Orioles optioned RHP Cam Sanders to Norfolk Tides.",
-   "player": "Cam Sanders",
+   "desc": "Baltimore Orioles optioned LHP Nick Raquet to Norfolk Tides.",
+   "player": "Nick Raquet",
    "type": "Optioned"
   },
   {
@@ -1136,9 +1136,9 @@
   },
   {
    "date": "2026-07-13",
-   "desc": "Pittsburgh Pirates traded RHP Cam Sanders to Baltimore Orioles for cash.",
+   "desc": "Baltimore Orioles optioned RHP Cam Sanders to Norfolk Tides.",
    "player": "Cam Sanders",
-   "type": "Trade"
+   "type": "Optioned"
   },
   {
    "date": "2026-07-11",
@@ -1160,8 +1160,8 @@
   },
   {
    "date": "2026-07-07",
-   "desc": "Baltimore Orioles signed free agent IF Jonnathan Torres to a minor league contract.",
-   "player": null,
+   "desc": "Baltimore Orioles signed free agent RHP Kelvin Cadet to a minor league contract.",
+   "player": "Kelvin Cadet",
    "type": "Signed as Free Agent"
   },
   {
@@ -1172,14 +1172,14 @@
   },
   {
    "date": "2026-07-07",
-   "desc": "Baltimore Orioles signed free agent LHP Eduin Rodriguez to a minor league contract.",
-   "player": "Eduin Rodriguez",
+   "desc": "Baltimore Orioles signed free agent IF Jonnathan Torres to a minor league contract.",
+   "player": null,
    "type": "Signed as Free Agent"
   },
   {
    "date": "2026-07-07",
-   "desc": "Baltimore Orioles signed free agent RHP Kelvin Cadet to a minor league contract.",
-   "player": "Kelvin Cadet",
+   "desc": "Baltimore Orioles signed free agent LHP Eduin Rodriguez to a minor league contract.",
+   "player": "Eduin Rodriguez",
    "type": "Signed as Free Agent"
   },
   {
@@ -1202,18 +1202,6 @@
   },
   {
    "date": "2026-07-03",
-   "desc": "Baltimore Orioles signed free agent C Sam Huff to a minor league contract.",
-   "player": "Sam Huff",
-   "type": "Signed as Free Agent"
-  },
-  {
-   "date": "2026-07-03",
-   "desc": "Baltimore Orioles designated C Chadwick Tromp for assignment.",
-   "player": "Chadwick Tromp",
-   "type": "Designated for Assignment"
-  },
-  {
-   "date": "2026-07-03",
    "desc": "Baltimore Orioles placed RHP Ryan Helsley on the 15-day injured list retroactive to June 30, 2026. Right elbow discomfort.",
    "player": "Ryan Helsley",
    "type": "Status Change"
@@ -1223,6 +1211,18 @@
    "desc": "Baltimore Orioles sent RHP Yaramil Hiraldo on a rehab assignment to Norfolk Tides.",
    "player": "Yaramil Hiraldo",
    "type": "Assigned"
+  },
+  {
+   "date": "2026-07-03",
+   "desc": "Baltimore Orioles designated C Chadwick Tromp for assignment.",
+   "player": "Chadwick Tromp",
+   "type": "Designated for Assignment"
+  },
+  {
+   "date": "2026-07-03",
+   "desc": "Baltimore Orioles signed free agent C Sam Huff to a minor league contract.",
+   "player": "Sam Huff",
+   "type": "Signed as Free Agent"
   },
   {
    "date": "2026-07-03",
@@ -1256,6 +1256,12 @@
   },
   {
    "date": "2026-07-01",
+   "desc": "Baltimore Orioles recalled RHP Cameron Weston from Norfolk Tides.",
+   "player": "Cameron Weston",
+   "type": "Recalled"
+  },
+  {
+   "date": "2026-07-01",
    "desc": "Baltimore Orioles optioned RHP Trey Gibson to Norfolk Tides.",
    "player": "Trey Gibson",
    "type": "Optioned"
@@ -1265,12 +1271,6 @@
    "desc": "Baltimore Orioles optioned LHP Josh Walker to Norfolk Tides.",
    "player": "Josh Walker",
    "type": "Optioned"
-  },
-  {
-   "date": "2026-07-01",
-   "desc": "Baltimore Orioles recalled RHP Cameron Weston from Norfolk Tides.",
-   "player": "Cameron Weston",
-   "type": "Recalled"
   },
   {
    "date": "2026-07-01",
@@ -1322,15 +1322,15 @@
   },
   {
    "date": "2026-06-28",
-   "desc": "Baltimore Orioles activated LF Dylan Beavers from the 10-day injured list.",
-   "player": "Dylan Beavers",
-   "type": "Status Change"
-  },
-  {
-   "date": "2026-06-28",
    "desc": "Baltimore Orioles designated C Sam Huff for assignment.",
    "player": "Sam Huff",
    "type": "Designated for Assignment"
+  },
+  {
+   "date": "2026-06-28",
+   "desc": "Baltimore Orioles activated LF Dylan Beavers from the 10-day injured list.",
+   "player": "Dylan Beavers",
+   "type": "Status Change"
   },
   {
    "date": "2026-06-28",
@@ -1364,12 +1364,6 @@
   },
   {
    "date": "2026-06-27",
-   "desc": "Baltimore Orioles optioned LHP Cade Povich to Chesapeake Baysox.",
-   "player": "Cade Povich",
-   "type": "Optioned"
-  },
-  {
-   "date": "2026-06-27",
    "desc": "Baltimore Orioles claimed C Dom Keegan off waivers from Tampa Bay Rays.",
    "player": "Dom Keegan",
    "type": "Claimed Off Waivers"
@@ -1378,6 +1372,12 @@
    "date": "2026-06-27",
    "desc": "Baltimore Orioles optioned C Dom Keegan to Chesapeake Baysox.",
    "player": "Dom Keegan",
+   "type": "Optioned"
+  },
+  {
+   "date": "2026-06-27",
+   "desc": "Baltimore Orioles optioned LHP Cade Povich to Chesapeake Baysox.",
+   "player": "Cade Povich",
    "type": "Optioned"
   },
   {
@@ -1412,14 +1412,14 @@
   },
   {
    "date": "2026-06-21",
-   "desc": "Baltimore Orioles sent RHP Dean Kremer on a rehab assignment to Norfolk Tides.",
-   "player": "Dean Kremer",
+   "desc": "Baltimore Orioles sent LHP Cade Povich on a rehab assignment to Chesapeake Baysox.",
+   "player": "Cade Povich",
    "type": "Assigned"
   },
   {
    "date": "2026-06-21",
-   "desc": "Baltimore Orioles sent LHP Cade Povich on a rehab assignment to Chesapeake Baysox.",
-   "player": "Cade Povich",
+   "desc": "Baltimore Orioles sent RHP Dean Kremer on a rehab assignment to Norfolk Tides.",
+   "player": "Dean Kremer",
    "type": "Assigned"
   },
   {
@@ -1439,19 +1439,7 @@
    "desc": "Baltimore Orioles sent RF Dylan Beavers on a rehab assignment to Chesapeake Baysox.",
    "player": "Dylan Beavers",
    "type": "Assigned"
-  },
-  {
-   "date": "2026-06-16",
-   "desc": "Baltimore Orioles activated RHP Ryan Helsley from the 15-day injured list.",
-   "player": "Ryan Helsley",
-   "type": "Status Change"
-  },
-  {
-   "date": "2026-06-16",
-   "desc": "Baltimore Orioles optioned RHP Anthony Nunez to Norfolk Tides.",
-   "player": "Anthony Nunez",
-   "type": "Optioned"
   }
  ],
- "updated": "2026-10-14T11:48:32-04:00"
+ "updated": "2026-10-14T21:26:50-04:00"
 }
