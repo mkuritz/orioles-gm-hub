@@ -1,14 +1,14 @@
 {
- "updated": "2026-10-18T07:10:53-04:00",
+ "updated": "2026-10-18T13:24:01-04:00",
  "data": {
-  "lastRun": "2026-10-18T07:10:53-04:00",
+  "lastRun": "2026-10-18T13:24:01-04:00",
   "mode": "full",
   "status": {
    "roster.json": "unchanged",
    "standings.json": "unchanged",
    "team_stats.json": "unchanged",
    "schedule.json": "updated",
-   "farm.json": "updated",
+   "farm.json": "unchanged",
    "draft.json": "unchanged",
    "transactions.json": "unchanged",
    "injuries.json": "unchanged",
@@ -21,6 +21,6 @@
    "performance.json": "unchanged",
    "arbitration.json": "unchanged"
   },
-  "lastFull": "2026-10-18T07:10:53-04:00"
+  "lastFull": "2026-10-18T13:24:01-04:00"
  }
 }
