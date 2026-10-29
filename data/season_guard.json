@@ -1,12 +1,20 @@
 {
- "generated": "2026-10-12T17:39:08-04:00",
+ "generated": "2026-10-29T19:10:41-04:00",
  "seasons": {
   "nfl": 2026,
   "mlb": 2026,
   "nhl": 20262027
  },
  "checked": 48,
- "conflicts": [],
+ "conflicts": [
+  {
+   "src": "roster.json",
+   "sport": "mlb",
+   "player": "Keegan Akin",
+   "team": "BAL",
+   "why": "not on BAL live 2026 roster for 2026-10-29"
+  }
+ ],
  "unverified": [],
  "stale": [],
  "notes": []
