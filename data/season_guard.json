@@ -1,48 +1,12 @@
 {
- "generated": "2026-10-31T19:10:42-04:00",
+ "generated": "2026-11-01T07:10:43-05:00",
  "seasons": {
   "nfl": 2026,
   "mlb": 2026,
   "nhl": 20262027
  },
- "checked": 43,
- "conflicts": [
-  {
-   "src": "roster.json",
-   "sport": "mlb",
-   "player": "Albert Su\u00e1rez",
-   "team": "BAL",
-   "why": "not on BAL live 2026 roster for 2026-10-31"
-  },
-  {
-   "src": "roster.json",
-   "sport": "mlb",
-   "player": "Codi Heuer",
-   "team": "BAL",
-   "why": "not on BAL live 2026 roster for 2026-10-31"
-  },
-  {
-   "src": "roster.json",
-   "sport": "mlb",
-   "player": "Colin Selby",
-   "team": "BAL",
-   "why": "not on BAL live 2026 roster for 2026-10-31"
-  },
-  {
-   "src": "roster.json",
-   "sport": "mlb",
-   "player": "Jos\u00e9 Barrero",
-   "team": "BAL",
-   "why": "not on BAL live 2026 roster for 2026-10-31"
-  },
-  {
-   "src": "roster.json",
-   "sport": "mlb",
-   "player": "Luis Robert Jr.",
-   "team": "BAL",
-   "why": "not on BAL live 2026 roster for 2026-10-31"
-  }
- ],
+ "checked": 38,
+ "conflicts": [],
  "unverified": [],
  "stale": [],
  "notes": []
