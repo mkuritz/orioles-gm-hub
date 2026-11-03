@@ -1,41 +1,12 @@
 {
- "generated": "2026-11-02T19:11:07-05:00",
+ "generated": "2026-11-03T07:10:59-05:00",
  "seasons": {
   "nfl": 2026,
   "mlb": 2026,
   "nhl": 20262027
  },
  "checked": 37,
- "conflicts": [
-  {
-   "src": "roster.json",
-   "sport": "mlb",
-   "player": "Chase Hampton",
-   "team": "BAL",
-   "why": "not on BAL live 2026 roster for 2026-11-02"
-  },
-  {
-   "src": "roster.json",
-   "sport": "mlb",
-   "player": "Josh White",
-   "team": "BAL",
-   "why": "not on BAL live 2026 roster for 2026-11-02"
-  },
-  {
-   "src": "roster.json",
-   "sport": "mlb",
-   "player": "Philip Abner",
-   "team": "BAL",
-   "why": "not on BAL live 2026 roster for 2026-11-02"
-  },
-  {
-   "src": "roster.json",
-   "sport": "mlb",
-   "player": "Zach Morgan",
-   "team": "BAL",
-   "why": "not on BAL live 2026 roster for 2026-11-02"
-  }
- ],
+ "conflicts": [],
  "unverified": [],
  "stale": [],
  "notes": []
